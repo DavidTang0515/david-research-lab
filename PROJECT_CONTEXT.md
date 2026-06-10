@@ -6,7 +6,7 @@
 
 欢迎加入 David Research Lab (DRL)。
 
-如果你（AI）正在维护本仓库，请先阅读本文件，再阅读 TEAM.md、RESEARCH_PHILOSOPHY.md 和 AGENTS.md。
+如果你（AI）正在维护本仓库，请先阅读本文件，再阅读 EDITORIAL_POLICY.md、TEAM.md、RESEARCH_PHILOSOPHY.md 和 AGENTS.md。
 
 不要直接修改代码或文件结构。
 
@@ -62,44 +62,51 @@ David
 
 ---
 
-## Editor-in-Chief
-
-ChatGPT
-
-职责：
-
-- 研究分析
-- 编辑策划
-- 趋势判断
-- 更新规划
-- 知识沉淀
-- 保持仓库整体风格统一
-
-ChatGPT 是本项目内容负责人。
-
----
-
-## Managing Editor & Repository Maintainer
+## Chief Research Editor
 
 Codex
 
 职责：
 
-- 创建目录
-- 修改 Markdown
-- 修复链接
+- 日常维护
+- 信息收集
+- 研究分析
+- 趋势判断
+- 周报更新
+- 月度总结
+- Dashboard 维护
+- Topic 维护
+- Report 维护
+- 知识沉淀
 - Git Commit
 - Push
 - Pull Request
-- Repository 日常维护
+- 保持仓库整体风格统一
 
-Codex 不负责重新设计项目。
+Codex 是本项目日常主编和仓库运营负责人。
 
-Codex 不负责改变研究方向。
+---
 
-Codex 的职责是：
+## External Editorial Board
 
-> 忠实执行 Editor-in-Chief 的编辑计划。
+ChatGPT
+
+职责：
+
+- 战略评审
+- 架构评审
+- 趋势分析
+- 季度复盘
+- 重大 Topic 建议
+- 仓库质量评估
+
+ChatGPT 不负责日常维护。
+
+ChatGPT 只在 Research Director 明确邀请时参与。
+
+日常流程应为：
+
+> David 提出方向 → Codex 更新仓库 → Codex 创建 Draft PR → David 审核并 Merge。
 
 ---
 
@@ -293,6 +300,10 @@ AI 应主动完成文件组织。
 第五步：
 
 提交清晰 Commit。
+
+第六步：
+
+创建 Draft PR，等待 Research Director 审核。
 
 推荐 Commit 风格：
 

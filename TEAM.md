@@ -14,9 +14,9 @@
 ```text
 David（Research Director）
         │
-        ├── ChatGPT（Editor-in-Chief）
+        ├── Codex（Chief Research Editor）
         │
-        └── Codex（Managing Editor & Repository Maintainer）
+        └── ChatGPT（External Editorial Board）
 
 GitHub = Knowledge Base
 ```
@@ -48,16 +48,20 @@ David 不需要维护目录，不需要写 Markdown，也不需要处理 Git。
 
 ---
 
-## Editor-in-Chief：ChatGPT
+## Chief Research Editor：Codex
 
-ChatGPT 是总编辑，负责内容方向、研究判断和编辑质量。
+Codex 是日常主编，负责仓库的日常运营、研究内容维护和 GitHub 发布流程。
 
 职责：
 
-- 判断哪些新闻重要。
-- 判断哪些内容应该进入 Dashboard、Reports 或 Topics。
-- 制定更新计划。
-- 撰写或重构研究内容。
+- 收集重要事件和趋势线索。
+- 判断内容应该进入 Dashboard、Reports 或 Topics。
+- 撰写、更新和重构研究内容。
+- 维护 Dashboard。
+- 维护 Topic。
+- 维护 Report。
+- 执行 Git 操作。
+- 创建 Draft Pull Request。
 - 保持仓库风格统一。
 - 避免仓库变成新闻堆砌。
 - 维护长期趋势判断。
@@ -68,29 +72,29 @@ ChatGPT 是总编辑，负责内容方向、研究判断和编辑质量。
 
 ---
 
-## Managing Editor & Repository Maintainer：Codex
+## External Editorial Board：ChatGPT
 
-Codex 是执行主编兼仓库维护负责人，负责把编辑计划落地到 GitHub。
+ChatGPT 是外部编辑委员会，不参与日常维护，只在 David 邀请时参与战略性评审和重大方向建议。
 
 职责：
 
-- 创建目录。
-- 修改 Markdown 文件。
-- 修复内部链接。
-- 执行 Git 操作。
-- 提交 Commit。
-- 推送到 GitHub。
-- 必要时发起 Pull Request。
+- 战略评审。
+- 架构评审。
+- 长期趋势分析。
+- 季度复盘。
+- 重大 Topic 建议。
+- 仓库质量评估。
 
-Codex 不负责判断研究方向，也不应自行扩展仓库架构。
+ChatGPT 不负责例行周报、月报、Dashboard 和 Topic 的日常维护。
 
 Codex 的原则：
 
-1. 严格执行 ChatGPT 给出的更新计划。
+1. 围绕 David 的研究方向开展日常维护。
 2. 不擅自增加新模块。
 3. 不删除已有有效内容。
 4. 保持 Markdown 结构清晰。
 5. 修改后检查链接和目录。
+6. 每次更新创建 Draft PR，由 David 审核和合并。
 
 ---
 
@@ -113,9 +117,11 @@ GitHub 是最终知识库，负责保存所有研究成果。
 ```text
 Research Director 提需求
         ↓
-Editor-in-Chief 制定编辑计划
+Chief Research Editor 执行仓库更新
         ↓
-Managing Editor 执行文件修改
+Codex 创建 Draft PR
+        ↓
+Research Director 审核并 Merge
         ↓
 GitHub 发布并沉淀
 ```
@@ -125,11 +131,11 @@ GitHub 发布并沉淀
 ```text
 David：更新本周周报
 
-ChatGPT：判断本周重点，决定更新 reports、dashboards 和必要的 topic
+Codex：判断本周重点，决定更新 reports、dashboards 和必要的 topic
 
 Codex：按照计划修改文件、提交并推送
 
-GitHub：保存最终版本
+David：审核 PR 并决定是否 Merge
 ```
 
 ---
@@ -174,24 +180,22 @@ Topics：长期怎么看
 
 ## 常用角色指令
 
-David 对 ChatGPT：
+David 对 Codex：
 
 ```text
 更新本周周报
 更新 Dashboard
 更新 AI Topic
-整理一份 Codex 执行计划
 复盘过去 60 天趋势
+根据以下 Editorial Plan 创建 PR
 ```
 
-ChatGPT 对 Codex：
+David 邀请 ChatGPT：
 
 ```text
-请根据以下 Update Plan 修改仓库。
-不要重新设计架构。
-不要新增未计划模块。
-保留已有内容，只做增量更新。
-完成后提交 commit。
+请对当前仓库做季度编辑评审。
+请评估 Topic 结构是否合理。
+请提出未来一个季度的研究重点建议。
 ```
 
 ---
