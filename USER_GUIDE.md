@@ -108,7 +108,7 @@ David 可以直接提出：
 - 更新网络安全 Topic
 - 更新本月月报
 - 复盘过去 60 天趋势
-- 根据以下 Editorial Plan 创建 PR
+- 根据以下 Editorial Plan 直接更新仓库
 
 AI 应主动判断文件位置和最小修改范围。
 
@@ -116,14 +116,14 @@ AI 应主动判断文件位置和最小修改范围。
 
 ## 8. GitHub 协作方式
 
-默认不直接修改 `main`。
+默认直接更新 `main`。
 
 标准流程：
 
 ```text
-创建分支 → 修改文件 → Commit → Push → Pull Request → 审核 → Merge
+修改文件 → Commit → Push 到 main → 汇报结果
 ```
 
-每个 Pull Request 只解决一个明确主题。
+每次更新只解决一个明确主题。
 
-避免把用户手册、Dashboard、Topic 和周报混在同一个 PR 中。
+避免把用户手册、Dashboard、Topic 和周报混在同一次更新中。

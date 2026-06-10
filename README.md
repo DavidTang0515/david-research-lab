@@ -13,6 +13,7 @@
 | 入口 | 用途 |
 |---|---|
 | `PROJECT_CONTEXT.md` | AI 入职说明：先理解项目定位、角色分工和最高维护原则 |
+| `EDITORIAL_POLICY.md` | 编辑政策：定义 Codex 日常主编、ChatGPT 外部评审的长期协作模式 |
 | `USER_GUIDE.md` | 使用手册：以后怎么提要求、怎么看仓库 |
 | `dashboards/index.md` | 趋势仪表盘：一分钟了解当前状态 |
 | `reports/` | 周报、月报、年报：记录阶段性变化 |
@@ -29,6 +30,7 @@
 tech-economy-trend-analysis/
 ├── README.md
 ├── USER_GUIDE.md
+├── EDITORIAL_POLICY.md
 ├── AGENTS.md
 ├── RESEARCH_PHILOSOPHY.md
 ├── CHANGELOG.md
