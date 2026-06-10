@@ -193,7 +193,7 @@ Output should be an Editorial Review Report.
 
 ---
 
-# 9. Direct Update Policy
+# 9. Direct Update and Pull Request Policy
 
 Each update should focus on one objective.
 
@@ -205,7 +205,25 @@ Recommended size:
 
 Avoid oversized commits.
 
-Codex should update `main` directly unless the Research Director explicitly requests a Pull Request.
+Default rule:
+
+| Scenario | Default action |
+|---|---|
+| Weekly update | Direct commit |
+| Dashboard update | Direct commit |
+| Topic update | Direct commit |
+| Weekly report update | Direct commit |
+| Monthly report update | Direct commit |
+| Architecture adjustment | Pull Request |
+| New module | Pull Request |
+| ChatGPT-assisted restructuring | Pull Request |
+| Major version release | Pull Request |
+
+For routine maintenance, Codex should update `main` directly.
+
+Pull Requests should be reserved for major changes, new modules, ChatGPT-assisted restructuring, quarterly or annual releases, or cases where the Research Director explicitly requests review before merge.
+
+Keep Git history and `CHANGELOG.md` as the normal review record for direct updates.
 
 ---
 
