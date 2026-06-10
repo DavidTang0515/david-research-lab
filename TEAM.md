@@ -4,6 +4,9 @@
 
 本仓库不是普通资料夹，而是一个长期维护的科技、经济、政治、企业数字化与产业趋势研究知识库。
 
+> The mission is not to collect news, but to transform news into long-term knowledge.  
+> 我们的使命不是收集新闻，而是把新闻沉淀为长期知识。
+
 ---
 
 ## 组织架构
