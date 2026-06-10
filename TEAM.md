@@ -185,7 +185,9 @@ David 对 Codex：
 更新本周周报
 更新 Dashboard
 更新 AI Topic
-复盘过去 60 天趋势
+做季度复盘
+做半年复盘
+做年度复盘
 根据以下 Editorial Plan 直接更新仓库
 ```
 

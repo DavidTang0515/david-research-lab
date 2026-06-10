@@ -76,6 +76,14 @@ Research Director
 
 ↓
 
+Codex proposes a short update plan
+
+↓
+
+Research Director confirms the plan
+
+↓
+
 Codex updates repository
 
 ↓
@@ -155,6 +163,7 @@ Dashboard reflects the current world state.
 Codex should:
 
 - Search important events
+- Propose a short update plan before editing
 - Update weekly report
 - Update Dashboard if necessary
 - Update relevant Topics if long-term knowledge changes
@@ -168,6 +177,7 @@ Avoid unnecessary restructuring.
 
 Codex should:
 
+- Propose a short update plan before editing
 - Produce monthly summary
 - Merge repeated observations into Topics
 - Archive obsolete short-term information
@@ -220,6 +230,8 @@ Default rule:
 | Major version release | Pull Request |
 
 For routine maintenance, Codex should update `main` directly.
+
+Direct update does not mean editing without confirmation. Codex should present a short plan first, wait for the Research Director's approval, and then commit and push to `main`.
 
 Pull Requests should be reserved for major changes, new modules, ChatGPT-assisted restructuring, quarterly or annual releases, or cases where the Research Director explicitly requests review before merge.
 
