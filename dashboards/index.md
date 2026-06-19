@@ -4,10 +4,10 @@
 
 | Category | Current status | Trend level | Short commentary |
 |---|---|---|---|
-| AI | 从模型竞争转向 Agent、算力和企业落地 | High | 重点不再只是模型能力，而是成本、工作流接入和组织改造。 |
+| AI | 从模型竞争扩展到 Agent、治理、算力和数字主权 | High | 模型访问、政策连续性和区域算力正在成为企业选型的重要约束。 |
 | Semiconductor | AI 算力拉动先进芯片、HBM 和封装需求 | High | 供给能力、出口管制和资本开支共同决定产业节奏。 |
 | Cybersecurity | AI 安全、数据安全和供应链风险同步上升 | High | 企业需要把安全前置到模型、数据和自动化流程中。 |
-| Macroeconomy | 增长放缓、利率分化、通胀仍有黏性 | Medium | 宏观环境对企业投资和居民消费仍然偏约束。 |
+| Macroeconomy | 央行维持高利率，能源冲击使降息路径继续后移 | High | 融资成本和通胀不确定性继续约束企业投资与居民消费。 |
 | Geopolitics | 科技竞争、能源通道和供应链安全持续影响市场 | High | 地缘政治正在从外部风险变成产业布局变量。 |
 | Robotics | 人形机器人和智能制造进入样机到场景验证阶段 | Medium | 关注成本下降、供应链成熟度和真实应用密度。 |
 | Low-altitude economy | 政策热度高，商业闭环仍在验证 | Medium | 空域、监管、基础设施和运营场景决定落地速度。 |

@@ -37,7 +37,9 @@ AI is the core technology layer connecting models, agents, compute infrastructur
 - AI is moving from tool to workflow infrastructure.
 - Agent adoption depends on cost, reliability, permission control and measurable productivity.
 - Enterprise AI will require data governance and security redesign.
+- Frontier models are becoming strategic assets shaped by export controls, national evaluations and regional digital-sovereignty policies.
 
 ## Update Log
 
+- 2026-06-19: Added model access, export control and digital sovereignty as long-term AI variables after G7 discussions.
 - 2026-06-10: Initial topic skeleton.
