@@ -7,6 +7,7 @@
 ## 当前栏目
 
 - [Game Daily](./game/)
+- [2026 World Cup Daily](./world-cup-2026/)
 
 ## 内容流转
 
