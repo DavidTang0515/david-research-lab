@@ -28,3 +28,4 @@ David Research Lab 的 2026 年世界杯临时分析专区。
 ## Methodology
 
 - [世界杯日报规范](./reporting-guidelines.md)
+- [固定数据源与口径](./source-policy.md)
