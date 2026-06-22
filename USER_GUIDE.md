@@ -22,31 +22,43 @@
 
 1. `README.md`：了解仓库结构。
 2. `PROJECT_CONTEXT.md`：了解项目定位和 AI 协作关系。
-3. `dashboards/index.md`：快速查看当前趋势状态。
-4. `reports/`：查看阶段性变化。
-5. `topics/`：查看长期专题沉淀。
+3. `daily/`：查看最新日报和趋势信号。
+4. `dashboards/index.md`：快速查看当前趋势状态。
+5. `reports/`：查看阶段性变化。
+6. `topics/`：查看长期专题沉淀。
 
 日常阅读：
 
-1. 先看 Dashboard。
-2. 再看最近一篇周报或月报。
-3. 最后进入相关 Topic 深读。
+1. 先看需要关注的 Daily。
+2. 再看 Dashboard。
+3. 再看最近一篇周报或月报。
+4. 最后进入相关 Topic 深读。
 
 ---
 
-## 3. Dashboard、Reports、Topics 的区别
+## 3. Daily、Dashboard、Reports、Topics 的区别
 
 | 模块 | 回答的问题 | 更新方式 |
 |---|---|---|
+| Daily | 今天发生了什么？ | 高频、可追溯、保留来源和初步判断 |
 | Dashboard | 当前世界处于什么状态？ | 高频、简短、只保留摘要 |
 | Reports | 最近发生了什么变化？ | 按周、月、年记录 |
 | Topics | 长期怎么看这个领域？ | 持续更新，沉淀知识 |
 
-不要在三个地方重复写同一段内容。
+不要在不同层级重复写同一段内容。Daily 是输入，长期内容需要重新提炼。
 
 ---
 
 ## 4. 典型工作流
+
+### 更新游戏日报
+
+1. 读取 `daily/game/reporting-guidelines.md`。
+2. 按上次生成后至本次生成时的增量窗口收集信息。
+3. 更新 `daily/game/news-YYYY-MM-DD.md`。
+4. 更新 `daily/game/README.md` 最新入口。
+5. 有结构性价值时，生成 `daily/game/trend-signals/YYYY-MM-DD.md`。
+6. 不直接用单期日报修改 Topic 或 Dashboard。
 
 ### 更新本周周报
 
@@ -169,6 +181,7 @@ AI 应主动判断文件位置和最小修改范围。
 
 | 场景 | 默认方式 |
 |---|---|
+| 日报更新 | 直接 Commit |
 | 每周更新 | 直接 Commit |
 | Dashboard 更新 | 直接 Commit |
 | Topic 更新 | 直接 Commit |

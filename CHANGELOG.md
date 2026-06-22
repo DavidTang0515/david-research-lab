@@ -8,6 +8,8 @@
 - GitHub 仓库由 `tech-economy-trend-analysis` 更名为 `david-research-lab`。
 - 在本地工作区采用 Daily / Watch → Weekly Review → Research Lab 的信息流。
 - 明确其他模块的日报内容需先形成趋势信号，再进入 Report、Topic 或 Dashboard。
+- 新增仓库内 `daily/game/` 游戏日报栏目，承接原 `game-news-digest` 的后续自动发布。
+- 将游戏日报的增量窗口、无剧透、玩家态度证据、失败汇报和发布回读规则纳入 Lab 规范。
 
 ## 2026-06-10
 

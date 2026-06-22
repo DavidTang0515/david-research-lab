@@ -2,11 +2,11 @@
 
 这是 David Research Lab 的最终研究知识库，用于沉淀经济、科技、政治、产业和企业数字化转型趋势。
 
-在本地 David Research Lab 工作区中，它不承担所有日常信息采集。`Game Daily/`、`Politics Daily/`、`China Watch/` 和 `US Watch/` 负责发现与核实信息，`Weekly Review/` 负责筛选，本目录负责形成阶段报告、长期知识和当前判断。
+日常信息通过仓库内的 `daily/` 栏目进入，经过筛选后，再形成阶段报告、长期知识和当前判断。
 
 本仓库不定位为新闻收藏夹，而是一个持续演进的研究系统：
 
-> Dashboard 看现在，Reports 记录变化，Topics 沉淀知识。
+> Daily 记录信号，Dashboard 看现在，Reports 记录变化，Topics 沉淀知识。
 
 ---
 
@@ -17,6 +17,8 @@
 | `PROJECT_CONTEXT.md` | AI 入职说明：先理解项目定位、角色分工和最高维护原则 |
 | `EDITORIAL_POLICY.md` | 编辑政策：定义 Codex 日常主编、ChatGPT 外部评审的长期协作模式 |
 | `USER_GUIDE.md` | 使用手册：以后怎么提要求、怎么看仓库 |
+| `daily/` | 日报入口：记录可追溯的日常信息和趋势信号 |
+| `daily/game/` | 游戏日报：游戏新闻、玩家态度和产业信号 |
 | `dashboards/index.md` | 趋势仪表盘：一分钟了解当前状态 |
 | `reports/` | 周报、月报、年报：记录阶段性变化 |
 | `topics/` | 专题知识库：长期沉淀 AI、半导体、网络安全等主题 |
@@ -36,6 +38,7 @@ Research Lab/
 ├── AGENTS.md
 ├── RESEARCH_PHILOSOPHY.md
 ├── CHANGELOG.md
+├── daily/
 ├── dashboards/
 ├── reports/
 ├── topics/
@@ -46,7 +49,13 @@ Research Lab/
 
 ---
 
-## 三层内容结构
+## 一层输入与三层研究结构
+
+### Daily：今天发生了什么
+
+回答：今天有哪些经过核实、值得记录的信息？
+
+日报是研究输入层。它可以保留事件、玩家或公众反应、来源证据和初步影响判断，但不能用单日信息直接改写长期结论。
 
 ### 1. Dashboard：现在怎么看
 
@@ -110,7 +119,7 @@ Research Lab/
 
 具体文件怎么更新，由 AI 按 `AGENTS.md` 和 `USER_GUIDE.md` 执行。
 
-来自其他模块的内容应先按根目录总规则生成趋势信号，不得把日报全文直接复制进本库。
+日报中的长期信号应先单独形成趋势信号，再判断是否进入 Report、Topic 或 Dashboard，不得把日报全文直接复制到长期内容中。
 
 ---
 
