@@ -2,6 +2,12 @@
 
 本文件记录仓库结构、报告内容和研究框架的重要更新。
 
+## 2026-06-22
+
+- 明确本仓库是 David Research Lab 总体系中的核心研究知识库。
+- 在本地工作区采用 Daily / Watch → Weekly Review → Research Lab 的信息流。
+- 明确其他模块的日报内容需先形成趋势信号，再进入 Report、Topic 或 Dashboard。
+
 ## 2026-06-10
 
 - 初始化 `tech-economy-trend-analysis` 仓库。

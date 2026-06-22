@@ -1,6 +1,8 @@
-# 科技及经济趋势分析
+# David Research Lab 核心研究库
 
-这是一个长期维护的个人研究仓库，用于沉淀经济、科技、政治、产业和企业数字化转型趋势。
+这是 David Research Lab 的最终研究知识库，用于沉淀经济、科技、政治、产业和企业数字化转型趋势。
+
+在本地 David Research Lab 工作区中，它不承担所有日常信息采集。`Game Daily/`、`Politics Daily/`、`China Watch/` 和 `US Watch/` 负责发现与核实信息，`Weekly Review/` 负责筛选，本目录负责形成阶段报告、长期知识和当前判断。
 
 本仓库不定位为新闻收藏夹，而是一个持续演进的研究系统：
 
@@ -27,7 +29,7 @@
 ## 最终保留的核心模块
 
 ```text
-tech-economy-trend-analysis/
+Research Lab/
 ├── README.md
 ├── USER_GUIDE.md
 ├── EDITORIAL_POLICY.md
@@ -107,6 +109,8 @@ tech-economy-trend-analysis/
 - 复盘过去半年趋势
 
 具体文件怎么更新，由 AI 按 `AGENTS.md` 和 `USER_GUIDE.md` 执行。
+
+来自其他模块的内容应先按根目录总规则生成趋势信号，不得把日报全文直接复制进本库。
 
 ---
 
