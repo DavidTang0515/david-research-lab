@@ -203,7 +203,7 @@ David 邀请 ChatGPT：
 
 ## 项目目标
 
-将 `tech-economy-trend-analysis` 建设为 David Research Lab 的核心知识库。
+将 `david-research-lab` 建设为 David Research Lab 的核心知识库。
 
 长期服务于：
 
