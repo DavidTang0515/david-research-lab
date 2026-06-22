@@ -13,7 +13,6 @@ David Research Lab 的 2026 年世界杯临时分析专区。
 ## Dynamic Overview
 
 - [世界杯动态总览](./overview.md)
-- [反向晋级路径图（draw.io）](./world-cup-path.drawio)
 
 ## 栏目重点
 
