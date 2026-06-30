@@ -1,45 +1,45 @@
-# Macroeconomy
+# 宏观经济
 
-## Overview
+## 概览
 
-Macroeconomy tracks growth, inflation, interest rates, fiscal policy, trade, energy and capital expenditure.
+宏观经济跟踪增长、通胀、利率、财政政策、贸易、能源和资本开支。
 
-## Development Timeline
+## 发展阶段
 
-- 2020-2022: Pandemic shock and inflation cycle.
-- 2023-2024: Tight monetary policy and supply-chain adjustment.
-- 2025-2026: Growth slowdown, rate divergence and AI-related capital expenditure.
+- 2020-2022：疫情冲击和通胀周期。
+- 2023-2024：紧缩货币政策和供应链调整。
+- 2025-2026：增长放缓、利率分化和 AI 相关资本开支并存。
 
-## Core Players
+## 核心参与者
 
-- Federal Reserve
-- European Central Bank
+- 美联储
+- 欧洲央行
 - IMF
 - World Bank
 - OECD
-- Major governments
-- Global enterprises
+- 主要政府
+- 全球大型企业
 
-## Industry Chain
+## 产业链
 
-- Household consumption
-- Corporate investment
-- Government spending
-- Trade
-- Energy
-- Financial conditions
-- Productivity
+- 居民消费
+- 企业投资
+- 政府支出
+- 贸易
+- 能源
+- 金融条件
+- 生产率
 
-## Key Events
+## 关键事件
 
-- To be updated when events have long-term significance.
+- 后续当事件具备长期意义时补充。
 
-## Long-term Trends
+## 长期趋势
 
-- Global growth is constrained by debt, demographics and trade fragmentation.
-- AI capital expenditure may support investment but does not remove macro risk.
-- Interest-rate paths remain a key variable for valuation and corporate spending.
+- 全球增长受到债务、人口结构和贸易碎片化约束。
+- AI 资本开支可能支撑部分投资，但不能消除宏观风险。
+- 利率路径仍是估值和企业支出的关键变量。
 
-## Update Log
+## 更新日志
 
-- 2026-06-10: Initial topic skeleton.
+- 2026-06-10：初始化专题骨架。

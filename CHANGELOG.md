@@ -4,6 +4,8 @@
 
 ## 2026-06-30
 
+- 固化仓库语言规则：`topics/`、`dashboards/`、`reports/`、日报正文和长期说明文档默认使用中文，仅保留必要专有名词、英文缩写和固定概念。
+- 将现有 `topics/` 专题骨架和 `dashboards/index.md` 主要结构中文化，避免长期沉淀层继续扩大英文内容。
 - 同步远端 6 月 30 日日报更新，保留正式 Game Daily 和 World Cup Daily 入口。
 - 收口 `daily/game/README.md`，将 630v2 / 630v3 测试版从 `Latest Reports` 正式列表中移除，避免测试稿覆盖正式日报入口。
 - 新增第 3 期阶段报告：`reports/2026/2026-06-30-week26.md`，基于本仓库已发布 Daily 和趋势信号，提炼游戏硬件入口、PC 长尾消费、跨媒体 IP 和世界杯日报流程的阶段变化。

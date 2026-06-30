@@ -1,15 +1,15 @@
 # AI
 
-## Overview
+## 概览
 
-AI is the core technology layer connecting models, agents, compute infrastructure, enterprise workflows and new digital interfaces.
+AI 是连接模型、Agent、算力基础设施、企业流程和新型数字入口的核心技术层。
 
-## Development Timeline
+## 发展阶段
 
-- 2022-2024: Foundation models became mainstream.
-- 2025-2026: Agent workflows, multimodal tools and enterprise adoption became the main focus.
+- 2022-2024：基础模型进入主流应用。
+- 2025-2026：Agent 工作流、多模态工具和企业落地成为主要焦点。
 
-## Core Players
+## 核心参与者
 
 - OpenAI
 - Anthropic
@@ -17,29 +17,29 @@ AI is the core technology layer connecting models, agents, compute infrastructur
 - Meta
 - Microsoft
 - NVIDIA
-- Major Chinese AI companies
+- 中国主要 AI 公司
 
-## Industry Chain
+## 产业链
 
-- Models
-- Data
-- Compute
-- Applications
-- Enterprise integration
-- Governance and security
+- 模型
+- 数据
+- 算力
+- 应用
+- 企业集成
+- 治理与安全
 
-## Key Events
+## 关键事件
 
-- To be updated when events have long-term significance.
+- 后续当事件具备长期意义时补充。
 
-## Long-term Trends
+## 长期趋势
 
-- AI is moving from tool to workflow infrastructure.
-- Agent adoption depends on cost, reliability, permission control and measurable productivity.
-- Enterprise AI will require data governance and security redesign.
-- Frontier models are becoming strategic assets shaped by export controls, national evaluations and regional digital-sovereignty policies.
+- AI 正从工具走向工作流基础设施。
+- Agent 落地取决于成本、可靠性、权限控制和可衡量的生产率提升。
+- 企业 AI 需要重新设计数据治理和安全体系。
+- 前沿模型正在成为战略资产，并受到出口管制、国家级评估和区域数字主权政策影响。
 
-## Update Log
+## 更新日志
 
-- 2026-06-19: Added model access, export control and digital sovereignty as long-term AI variables after G7 discussions.
-- 2026-06-10: Initial topic skeleton.
+- 2026-06-19：在 G7 相关讨论后，补充模型访问、出口管制和数字主权作为长期 AI 变量。
+- 2026-06-10：初始化专题骨架。

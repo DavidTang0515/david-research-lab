@@ -1,16 +1,16 @@
-# Game Industry
+# 游戏产业
 
-## Overview
+## 概览
 
-The game industry covers console, PC, mobile, live-service games, IP operations, platforms and interactive entertainment.
+游戏产业覆盖主机、PC、移动游戏、服务型游戏、IP 运营、平台和互动娱乐。
 
-## Development Timeline
+## 发展阶段
 
-- 2010-2020: Mobile and live-service models expanded.
-- 2021-2024: Industry consolidation and production-cost pressure increased.
-- 2025-2026: Content quality, platform strategy, hardware pricing and community trust became more important.
+- 2010-2020：移动游戏和服务型商业模式扩张。
+- 2021-2024：行业整合和制作成本压力上升。
+- 2025-2026：内容质量、平台策略、硬件定价和社区信任变得更加重要。
 
-## Core Players
+## 核心参与者
 
 - Nintendo
 - Sony
@@ -18,44 +18,44 @@ The game industry covers console, PC, mobile, live-service games, IP operations,
 - Tencent
 - NetEase
 - Valve
-- Major global publishers
-- Independent studios
+- 全球主要发行商
+- 独立工作室
 
-## Industry Chain
+## 产业链
 
-- Game engines
-- Development studios
-- Publishers
-- Distribution platforms
-- Hardware platforms
-- Community and creators
-- IP licensing
+- 游戏引擎
+- 开发工作室
+- 发行商
+- 分发平台
+- 硬件平台
+- 社区与创作者
+- IP 授权
 
-## Key Events
+## 关键事件
 
-- 2026-06: Xbox hardware price increases and Sony's next-generation PlayStation comments pointed to a more expensive, multi-scenario console cycle.
-- 2026-06: Steam Summer Sale reinforced the importance of PC wishlists, long-tail discounts and old-catalog monetization.
-- 2026-06: NBCUniversal's post-split game-business exploration showed that film, theme-park and game IP links remain a strategic watch item.
+- 2026-06：Xbox 硬件涨价与 Sony 对下一代 PlayStation 的表态，共同指向更高成本、多场景的主机周期。
+- 2026-06：Steam 夏促继续强化 PC 愿望单、长尾折扣和旧作库变现的重要性。
+- 2026-06：NBCUniversal 分拆后探索游戏业务，显示电影、主题乐园与游戏 IP 连接仍值得观察。
 
-## Long-term Trends
+## 长期趋势
 
-- Strong IP and community trust are becoming more valuable than short-term traffic.
-- Development cost and production cycles remain structural pressure.
-- Cross-platform operations and player reputation will shape long-term competitiveness.
-- Console competition is shifting from a single living-room device toward a broader hardware and account ecosystem that includes displays, remote play, handheld-like devices, accessories and platform services.
-- Higher hardware costs may weaken the traditional low-price console expansion model, making pricing, bundles, subscriptions and flagship releases more important to platform strategy.
-- PC platforms retain a structural advantage in price flexibility through sales, wishlists, old catalogs, independent games and handheld-PC compatibility.
-- Game IP is increasingly managed as a cross-media asset across games, film, animation, streaming, theme parks and merchandise, but each project still needs quality control and clear audience fit.
+- 强 IP 和社区信任正变得比短期流量更有价值。
+- 开发成本和制作周期仍是结构性压力。
+- 跨平台运营和玩家口碑会持续影响长期竞争力。
+- 主机竞争正从单一客厅设备转向更广义的硬件与账号生态，包括显示器、远程游玩、掌机式设备、配件和平台服务。
+- 硬件成本上升可能削弱传统低价主机扩张模式，使定价、套装、订阅和旗舰大作在平台策略中更重要。
+- PC 平台通过促销、愿望单、旧作库、独立游戏和掌机兼容性，保留较强的价格弹性。
+- 游戏 IP 正越来越像跨媒体资产，在游戏、电影、动画、流媒体、主题乐园和周边之间流动，但每个项目仍需要质量控制和清晰受众定位。
 
-## Watch Indicators
+## 观察指标
 
-- Next-generation PlayStation and Xbox launch prices, storage tiers and subsidy strategy.
-- PS Portal, Remote Play, SteamOS devices, PC handhelds and Switch 2 adoption.
-- Steam wishlist conversion, sale performance, Deck / handheld compatibility and old-catalog revenue.
-- Major IP licensing, film-game-theme-park cooperation and entertainment-group investment in game studios.
-- Player response to higher hardware prices, digital-only editions, subscription bundles and boxed-code releases.
+- 下一代 PlayStation 和 Xbox 的首发价、容量配置和补贴策略。
+- PS Portal、Remote Play、SteamOS 设备、PC 掌机和 Switch 2 的采用情况。
+- Steam 愿望单转化、促销表现、Deck / 掌机兼容性和旧作库收入。
+- 重大 IP 授权、影游联动、主题乐园合作和娱乐集团对游戏工作室的投资。
+- 玩家对硬件涨价、纯数字版本、订阅捆绑和盒中码发行的反馈。
 
-## Update Log
+## 更新日志
 
-- 2026-06-30: Added hardware-entry repricing, PC long-tail consumption and cross-media IP as long-term game-industry watch lines after Week 26 review.
-- 2026-06-10: Initial topic skeleton.
+- 2026-06-30：Week 26 复盘后，补充硬件入口重新定价、PC 长尾消费和跨媒体 IP 作为游戏产业长期观察线。
+- 2026-06-10：初始化专题骨架。

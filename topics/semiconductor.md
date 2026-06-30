@@ -1,15 +1,15 @@
-# Semiconductor
+# 半导体
 
-## Overview
+## 概览
 
-Semiconductors are the hardware foundation for AI, cloud computing, consumer electronics, defense technology and industrial digitization.
+半导体是 AI、云计算、消费电子、国防技术和工业数字化的硬件基础。
 
-## Development Timeline
+## 发展阶段
 
-- 2022-2024: Export controls and AI accelerators reshaped global competition.
-- 2025-2026: AI compute demand increased pressure on memory, advanced packaging and foundry capacity.
+- 2022-2024：出口管制和 AI 加速器重塑全球竞争。
+- 2025-2026：AI 算力需求加大对存储、先进封装和晶圆产能的压力。
 
-## Core Players
+## 核心参与者
 
 - NVIDIA
 - TSMC
@@ -20,26 +20,26 @@ Semiconductors are the hardware foundation for AI, cloud computing, consumer ele
 - Huawei
 - SMIC
 
-## Industry Chain
+## 产业链
 
-- Design
+- 设计
 - EDA
-- Wafer fabrication
-- Lithography and equipment
-- Memory
-- Advanced packaging
-- Data-center deployment
+- 晶圆制造
+- 光刻与设备
+- 存储
+- 先进封装
+- 数据中心部署
 
-## Key Events
+## 关键事件
 
-- To be updated when events have long-term significance.
+- 后续当事件具备长期意义时补充。
 
-## Long-term Trends
+## 长期趋势
 
-- AI demand is turning semiconductor capacity into strategic infrastructure.
-- Memory and packaging are becoming as important as leading-edge logic.
-- Export controls will continue to shape supply-chain geography.
+- AI 需求正在把半导体产能变成战略基础设施。
+- 存储和先进封装正变得与先进逻辑芯片同样重要。
+- 出口管制将继续影响供应链地理布局。
 
-## Update Log
+## 更新日志
 
-- 2026-06-10: Initial topic skeleton.
+- 2026-06-10：初始化专题骨架。

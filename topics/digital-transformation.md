@@ -1,43 +1,43 @@
-# Digital Transformation
+# 数字化转型
 
-## Overview
+## 概览
 
-Digital transformation is the organizational process of using data, cloud, AI, cybersecurity and process redesign to improve operations and decision-making.
+数字化转型是组织利用数据、云、AI、网络安全和流程重构提升运营与决策能力的过程。
 
-## Development Timeline
+## 发展阶段
 
-- 2020-2024: Cloud, data platforms and online services became baseline capabilities.
-- 2025-2026: AI and automation pushed enterprises from system construction to workflow transformation.
+- 2020-2024：云、数据平台和线上服务成为基础能力。
+- 2025-2026：AI 与自动化推动企业从系统建设转向工作流改造。
 
-## Core Players
+## 核心参与者
 
-- Large enterprises
-- State-owned enterprises
-- Cloud providers
-- Software vendors
-- Cybersecurity vendors
-- System integrators
+- 大型企业
+- 国有企业
+- 云服务商
+- 软件厂商
+- 网络安全厂商
+- 系统集成商
 
-## Industry Chain
+## 产业链
 
-- Strategy
-- Data governance
-- Cloud and infrastructure
-- Business systems
-- AI and automation
-- Security and compliance
-- Change management
+- 战略规划
+- 数据治理
+- 云与基础设施
+- 业务系统
+- AI 与自动化
+- 安全与合规
+- 组织变革管理
 
-## Key Events
+## 关键事件
 
-- To be updated when events have long-term significance.
+- 后续当事件具备长期意义时补充。
 
-## Long-term Trends
+## 长期趋势
 
-- Digital transformation is shifting from IT projects to management capability.
-- Data quality and process ownership determine AI value.
-- State-owned enterprises need practical governance, security and measurable outcomes.
+- 数字化转型正从 IT 项目转向管理能力建设。
+- 数据质量和流程责任归属决定 AI 价值。
+- 国有企业更需要务实治理、安全合规和可衡量成效。
 
-## Update Log
+## 更新日志
 
-- 2026-06-10: Initial topic skeleton.
+- 2026-06-10：初始化专题骨架。

@@ -1,43 +1,43 @@
-# Low-altitude Economy
+# 低空经济
 
-## Overview
+## 概览
 
-The low-altitude economy includes drones, eVTOL aircraft, airspace management, low-altitude logistics, emergency response and smart transportation.
+低空经济包括无人机、eVTOL、空域管理、低空物流、应急救援和智慧交通。
 
-## Development Timeline
+## 发展阶段
 
-- 2023-2024: Policy attention increased.
-- 2025-2026: Pilot zones and application scenarios became the focus.
+- 2023-2024：政策关注度提升。
+- 2025-2026：试点区域和应用场景成为重点。
 
-## Core Players
+## 核心参与者
 
-- Drone manufacturers
-- eVTOL companies
-- Local governments
-- Aviation regulators
-- Transport operators
-- Infrastructure providers
+- 无人机制造商
+- eVTOL 企业
+- 地方政府
+- 航空监管机构
+- 交通运营主体
+- 基础设施服务商
 
-## Industry Chain
+## 产业链
 
-- Aircraft and drones
-- Batteries and components
-- Airspace management
-- Ground infrastructure
-- Operation platforms
-- Maintenance and safety
-- Scenario services
+- 航空器与无人机
+- 电池与零部件
+- 空域管理
+- 地面基础设施
+- 运营平台
+- 维护与安全
+- 场景服务
 
-## Key Events
+## 关键事件
 
-- To be updated when events have long-term significance.
+- 后续当事件具备长期意义时补充。
 
-## Long-term Trends
+## 长期趋势
 
-- Commercial value depends on regulation, route density and operational safety.
-- Public services may mature earlier than mass consumer scenarios.
-- Smart transportation integration will be a key long-term path.
+- 商业价值取决于监管、航线密度和运营安全。
+- 公共服务场景可能早于大众消费场景成熟。
+- 与智慧交通体系融合，是低空经济的重要长期路径。
 
-## Update Log
+## 更新日志
 
-- 2026-06-10: Initial topic skeleton.
+- 2026-06-10：初始化专题骨架。

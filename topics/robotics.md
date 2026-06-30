@@ -1,15 +1,15 @@
-# Robotics
+# 机器人
 
-## Overview
+## 概览
 
-Robotics covers industrial robots, service robots, humanoid robots, embodied intelligence and smart manufacturing.
+机器人专题覆盖工业机器人、服务机器人、人形机器人、具身智能和智能制造。
 
-## Development Timeline
+## 发展阶段
 
-- 2010-2020: Industrial automation expanded.
-- 2021-2026: AI models, sensors and actuators accelerated interest in embodied intelligence.
+- 2010-2020：工业自动化扩张。
+- 2021-2026：AI 模型、传感器和执行器推动具身智能热度上升。
 
-## Core Players
+## 核心参与者
 
 - Tesla
 - Boston Dynamics
@@ -18,28 +18,28 @@ Robotics covers industrial robots, service robots, humanoid robots, embodied int
 - ABB
 - Fanuc
 - Yaskawa
-- Chinese robotics companies
+- 中国机器人企业
 
-## Industry Chain
+## 产业链
 
-- Sensors
-- Actuators
-- Controllers
-- AI models
-- Manufacturing
-- Integration
-- Application scenarios
+- 传感器
+- 执行器
+- 控制器
+- AI 模型
+- 制造
+- 集成
+- 应用场景
 
-## Key Events
+## 关键事件
 
-- To be updated when events have long-term significance.
+- 后续当事件具备长期意义时补充。
 
-## Long-term Trends
+## 长期趋势
 
-- Robotics value depends on real scenario density, reliability and cost reduction.
-- Humanoid robots remain early-stage but strategically important.
-- Industrial and logistics scenarios are likely to mature before general-purpose household use.
+- 机器人价值取决于真实场景密度、可靠性和成本下降。
+- 人形机器人仍处于早期阶段，但具备战略意义。
+- 工业和物流场景可能早于通用家庭场景成熟。
 
-## Update Log
+## 更新日志
 
-- 2026-06-10: Initial topic skeleton.
+- 2026-06-10：初始化专题骨架。

@@ -1,44 +1,44 @@
-# Cybersecurity
+# 网络安全
 
-## Overview
+## 概览
 
-Cybersecurity covers data security, identity, infrastructure protection, supply-chain risk and AI-enabled attack and defense.
+网络安全覆盖数据安全、身份权限、基础设施防护、供应链风险，以及 AI 驱动的攻防变化。
 
-## Development Timeline
+## 发展阶段
 
-- 2022-2024: Zero trust, ransomware and data compliance became central enterprise concerns.
-- 2025-2026: AI increased both automation capability and attack surface.
+- 2022-2024：零信任、勒索软件和数据合规成为企业安全重点。
+- 2025-2026：AI 同时提升自动化能力和攻击面。
 
-## Core Players
+## 核心参与者
 
 - Microsoft
 - CrowdStrike
 - Palo Alto Networks
 - Fortinet
 - Cloudflare
-- Major cloud providers
-- National regulators
+- 主要云服务商
+- 国家监管机构
 
-## Industry Chain
+## 产业链
 
-- Identity and access
-- Endpoint protection
-- Network security
-- Cloud security
-- Data security
-- AI security
-- Incident response
+- 身份与访问控制
+- 终端防护
+- 网络安全
+- 云安全
+- 数据安全
+- AI 安全
+- 事件响应
 
-## Key Events
+## 关键事件
 
-- To be updated when events have long-term significance.
+- 后续当事件具备长期意义时补充。
 
-## Long-term Trends
+## 长期趋势
 
-- Security is moving from perimeter defense to identity, data and workflow control.
-- AI agents require stronger permission boundaries and audit trails.
-- Large organizations need security-by-design across digital transformation projects.
+- 安全正在从边界防护转向身份、数据和工作流控制。
+- AI Agent 需要更强的权限边界和审计追踪。
+- 大型组织需要在数字化项目中前置安全设计。
 
-## Update Log
+## 更新日志
 
-- 2026-06-10: Initial topic skeleton.
+- 2026-06-10：初始化专题骨架。
