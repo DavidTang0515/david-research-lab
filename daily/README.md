@@ -6,6 +6,7 @@
 
 ## 当前栏目
 
+- [Tech Daily](./tech/)
 - [Game Daily](./game/)
 - [2026 World Cup Daily](./world-cup-2026/)
 
