@@ -4,6 +4,9 @@
 
 ## 2026-06-30
 
+- 新增 `daily/tech/` 科技趋势日报栏目，承接每日科技动态输入、趋势信号和周报沉淀。
+- 新增 `daily/tech/reporting-guidelines.md`，固化科技趋势每日简报、周报、信息源、Topic / Dashboard 更新和发布规则。
+- 更新 `daily/README.md`，将 Tech Daily 纳入 Daily Intelligence 当前栏目。
 - 固化仓库语言规则：`topics/`、`dashboards/`、`reports/`、日报正文和长期说明文档默认使用中文，仅保留必要专有名词、英文缩写和固定概念。
 - 将现有 `topics/` 专题骨架和 `dashboards/index.md` 主要结构中文化，避免长期沉淀层继续扩大英文内容。
 - 同步远端 6 月 30 日日报更新，保留正式 Game Daily 和 World Cup Daily 入口。
