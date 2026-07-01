@@ -2,6 +2,12 @@
 
 本文件记录仓库结构、报告内容和研究框架的重要更新。
 
+## 2026-07-01
+
+- 新增科技趋势每日简报：`reports/daily/2026/2026-07-01-tech-daily.md`，覆盖 AI for Science、前沿模型出口管制、AI 安全补丁节奏、AI 数据中心能源基础设施、韩国半导体投资和平台 AI 监管。
+- 新增 `reports/daily/README.md`，将最新科技趋势日报放入 Latest Reports，并明确日报作为研究输入层的规则。
+- 本次信号与现有 Dashboard 判断一致，未更新 `dashboards/index.md`。
+
 ## 2026-06-30
 
 - 新增 `daily/tech/` 科技趋势日报栏目，承接每日科技动态输入、趋势信号和周报沉淀。
