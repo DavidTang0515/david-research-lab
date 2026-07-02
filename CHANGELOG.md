@@ -2,6 +2,12 @@
 
 本文件记录仓库结构、报告内容和研究框架的重要更新。
 
+## 2026-07-02
+
+- 新增科技趋势每日简报：`reports/daily/2026/2026-07-02-tech-daily.md`，覆盖联合国 AI 风险评估、美国前沿模型发布标准、FTC AI 偏见防护政策、Anthropic 模型安全运营和 AI 数据中心电力基础设施。
+- 更新 `reports/daily/README.md`，将 2026-07-02 科技趋势日报放入 Latest Reports 首位。
+- 本期信号与现有 Dashboard 判断一致，未更新 `dashboards/index.md`。
+
 ## 2026-07-01
 
 - 新增科技趋势每日简报：`reports/daily/2026/2026-07-01-tech-daily.md`，覆盖 AI for Science、前沿模型出口管制、AI 安全补丁节奏、AI 数据中心能源基础设施、韩国半导体投资和平台 AI 监管。
