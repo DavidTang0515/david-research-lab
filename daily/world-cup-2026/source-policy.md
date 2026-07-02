@@ -10,7 +10,7 @@
 | 小组积分、净胜球、晋级和淘汰 | FIFA 官方积分榜及赛事规则 | ESPN 积分榜 | Reuters、AP | 最佳第三名和同分规则优先以 FIFA 为准；淘汰赛晋级结果可在权威媒体明确确认后先用于日报路径更新，并标注待官方回读。 |
 | 首发、换人、进球、助攻、红黄牌 | FIFA 官方比赛报告 | ESPN 比赛记录 | Reuters、AP、BBC、The Guardian | 关键事件冲突时以 FIFA 为准；官方暂不可用时可采用权威媒体明确记录，但必须标注来源。 |
 | 射门、射正、控球率、扑救等基础统计 | FIFA 官方技术统计 | FotMob | 无 | 同一场比赛只采用一个来源的完整口径。 |
-| xG | FotMob | FBref / StatsBomb | 无 | FotMob 优先；若 FotMob 不可稳定取得，可整场使用 FBref / StatsBomb xG。必须在表格和数据覆盖说明中标注口径，例如“FBref / StatsBomb xG”。不得在同一场比赛中混用 FotMob 与 FBref / StatsBomb xG。 |
+| xG | FBref / StatsBomb | FotMob | 无 | FBref / StatsBomb 为 xG 主口径；若 FBref 暂未更新或当次运行不可稳定取得，再使用 FotMob xG。必须在表格和数据覆盖说明中标注口径。不得在同一场比赛中混用 FBref / StatsBomb 与 FotMob xG。 |
 | 重大机会和球员评分 | FotMob | 无 | 无 | 重大机会和球员评分仍以 FotMob 为准；FBref 不替代重大机会和球员评分。缺失时不展示。 |
 | 阵容、伤停、停赛和复出 | 国家队官方发布 | FIFA、Reuters、AP | Reuters、AP | 不采用未获确认的社交媒体传闻。 |
 | 比赛过程和战术背景 | Reuters | AP、BBC、The Guardian、ESPN | 无 | 用于解释数据，不替代官方赛果；但 FIFA/ESPN 暂不可稳定回读时，Reuters/AP 可作为终场赛果临时确认来源。 |
@@ -24,12 +24,13 @@
 1. FIFA 官方赛程、赛果和积分榜。
 2. FIFA 官方比赛报告或技术统计。
 3. ESPN 比赛中心或积分榜，作为 FIFA 暂不可回读时的固定备用。
-4. FotMob 对当日重点比赛的统一统计口径，优先用于 xG、重大机会和球员评分。
-5. 若 FotMob xG 不可稳定取得，检查 FBref / StatsBomb 对当日重点比赛的 xG；若可取得，应优先填入“实际比分 vs xG 对比”表，并标明口径。
-6. 涉及前三名候选球队时，检查相关国家队官方伤停和阵容信息。
-7. Reuters 对重点比赛或重大伤停的报道。
-8. AP、BBC、The Guardian 对尚未稳定取得 FIFA/ESPN 回读的终场赛果进行交叉验证。
-9. Opta Analyst 是否更新争冠概率。
+4. FBref / StatsBomb 对当日重点比赛的 xG，优先用于“实际比分 vs xG 对比”表。
+5. 若 FBref / StatsBomb 暂未更新或不可稳定取得，再检查 FotMob xG；若采用 FotMob，应在表格和数据覆盖说明中明确标注。
+6. FotMob 对当日重点比赛的重大机会和球员评分；FBref 不替代这两项。
+7. 涉及前三名候选球队时，检查相关国家队官方伤停和阵容信息。
+8. Reuters 对重点比赛或重大伤停的报道。
+9. AP、BBC、The Guardian 对尚未稳定取得 FIFA/ESPN 回读的终场赛果进行交叉验证。
+10. Opta Analyst 是否更新争冠概率。
 
 如某项没有更新，应记录“未更新”或“暂无可靠数据”。若 FIFA/ESPN 当次运行中不可稳定回读，但 Reuters/AP 等权威媒体已经明确确认终场赛果，可以发布日报，但必须在正文和数据覆盖说明中写明“赛果采用权威媒体临时确认，待 FIFA/ESPN 回读确认”。不得使用搜索结果摘要、百科、无数据说明的自媒体或社交媒体传闻补数。
 
@@ -37,7 +38,7 @@
 
 - 比分、积分、晋级、纪律和比赛事件：优先 FIFA 口径；FIFA 暂不可回读时使用 ESPN；FIFA/ESPN 均不可稳定回读但 Reuters/AP 等权威媒体明确确认终场赛果时，可作为当期临时发布口径，并标注待官方回读。
 - 基础技术统计：优先 FIFA；FIFA 缺失时整场切换为 FotMob，不拼接两家数据。
-- xG：FotMob 优先；FotMob 不可稳定取得时，可整场使用 FBref / StatsBomb 口径。必须在表格和数据覆盖说明中明确写出口径，不得与 FotMob xG 混用。
+- xG：FBref / StatsBomb 为主；FBref 暂未更新或不可稳定取得时，可整场使用 FotMob xG。必须在表格和数据覆盖说明中明确写出口径，不得混用。
 - 重大机会和球员评分：仅使用 FotMob；FBref 不替代这两项。
 - 争冠概率：优先 Opta Analyst；只有 Opta 没有更新且 Goldman Sachs 发布了明确模型更新时，才可补充后者。
 - 不使用搜索结果摘要、百科和无数据说明的自媒体作为分析数据源。
@@ -48,7 +49,7 @@
 
 - 本期赛果和积分采用哪个来源；若采用 Reuters/AP 等权威媒体临时确认，必须写明待 FIFA/ESPN 回读确认。
 - 哪些重点比赛取得了技术统计。
-- xG 是否可用以及采用哪个来源；若采用 FBref / StatsBomb，必须写明“未与 FotMob 混用”。
+- xG 是否可用以及采用哪个来源；若采用 FBref / StatsBomb，必须写明“未与 FotMob 混用”；若采用 FotMob，必须写明“FBref / StatsBomb 暂未稳定取得”。
 - 重大机会和球员评分是否可用；缺失时明确写明 FotMob 未稳定取得。
 - 伤停信息来自哪些国家队官方渠道。
 - 争冠模型是否有当日更新。
@@ -59,7 +60,7 @@
 
 - FIFA 暂不可用：优先使用 ESPN 确认比分和积分，并标注“待 FIFA 回读确认”。
 - FIFA/ESPN 均暂不可稳定回读：若 Reuters、AP、BBC、The Guardian 等权威媒体已明确确认终场赛果，可用于当期日报发布，并标注“待 FIFA/ESPN 回读确认”。
-- FotMob xG 不可用：优先检查 FBref / StatsBomb xG；若仍不可用，才在表中写“xG 暂无可靠数据”。
+- FBref / StatsBomb xG 暂未更新或不可稳定取得：使用 FotMob xG；若 FotMob 也不可稳定取得，才在表中写“xG 暂无可靠数据”。
 - FotMob 重大机会和球员评分不可用：不使用其他来源替代。
 - 国家队官方未确认伤病：写“伤情尚未得到国家队官方确认”，不据此调整前三名预测。
 - Opta 未更新：沿用上一期模型基准并注明日期，不假设概率已经变化。
