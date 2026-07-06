@@ -1,6 +1,6 @@
 # 2026 世界杯动态总览
 
-更新时间：2026-07-06 11:35 CST（UTC+8）
+更新时间：2026-07-06 16:39 CST（UTC+8）
 
 当前阶段：16 强阶段继续推进。北京时间 7 月 6 日窗口内，挪威 2-1 淘汰巴西，英格兰 3-2 淘汰墨西哥。8 强新增对阵为挪威 vs 英格兰。巴西出局是本届淘汰赛至今最大重排信号：传统豪门标签不再足以维持争冠估值；挪威凭借 Haaland 的后程双响从搅局者升级为实质四强竞争者。英格兰晋级但过程并不稳，Quansah 红牌和防线纪律会直接影响 8 强战对 Haaland 的应对。
 
@@ -33,7 +33,7 @@
 
 ## 数据口径提示
 
-本轮赛果和赛程优先按 FIFA / ESPN 固定口径回读；当次运行中 FIFA / ESPN 细项未稳定取得时，采用 Reuters / The Guardian 明确赛后报道临时确认两场终场赛果和晋级结果，后续待 FIFA / ESPN 回读确认。xG 口径按 `source-policy.md` 为 FBref / StatsBomb 主来源、FotMob 备用。北京时间 7 月 6 日日报对应两场比赛未稳定取得公开可核验单场 xG，因此日报不展示精确 xG。
+本轮赛果和赛程优先按 FIFA / ESPN 固定口径回读；当次运行中 FIFA / ESPN 细项未稳定取得时，采用 Reuters / The Guardian 明确赛后报道临时确认两场终场赛果和晋级结果，后续待 FIFA / ESPN 回读确认。xG 口径按 `source-policy.md` 为 FBref / StatsBomb 主来源、FotMob 备用。北京时间 7 月 5 日、7 月 6 日四场已在日报中补录 FotMob xG：Canada 0.84 - Morocco 0.82，Paraguay 0.13 - France 1.45，Brazil 2.61 - Norway 1.05，Mexico 1.88 - England 1.61；FBref / StatsBomb 暂未稳定取得，未与 FotMob 混用。
 
 ## 每日更新规则
 
