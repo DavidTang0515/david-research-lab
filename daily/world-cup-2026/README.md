@@ -17,6 +17,11 @@ David Research Lab 的 2026 年世界杯临时分析专区。
 - [2026-06-23 世界杯动态日报](./2026-06-23.md)
 - [2026-06-22 世界杯动态日报](./2026-06-22.md)
 
+## Weekly Reports
+
+- [世界杯动态周报索引](../../reports/world-cup-2026/README.md)
+- [2026-07-06 世界杯动态周报](../../reports/world-cup-2026/2026-07-06-weekly.md)
+
 ## Dynamic Overview
 
 - [世界杯动态总览](./overview.md)
