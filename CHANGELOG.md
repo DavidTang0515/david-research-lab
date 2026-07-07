@@ -2,6 +2,13 @@
 
 本文件记录仓库结构、报告内容和研究框架的重要更新。
 
+## 2026-07-06
+
+- 新增科技趋势每日简报：`reports/daily/2026/2026-07-06-tech-daily.md`，覆盖联合国 AI 治理全球对话、AI 资本开支回报再平衡、SK Hynix ADR / HBM 融资、金融服务 AI 监管风险、Microsoft Xbox 重组和半导体市场信号。
+- 新增科技趋势周报：`reports/weekly/2026/2026-07-06-tech-weekly.md`，沉淀 AI 治理、算力与半导体、网络安全与数据治理、企业数字化、机器人、低空经济和宏观地缘的阶段性判断。
+- 更新 `reports/daily/README.md`，将 2026-07-06 科技趋势日报放入 Latest Reports 首位。
+- 本期信号主要强化既有 Dashboard 判断，未更新 `dashboards/index.md`；Topic 仅在周报中形成后续沉淀建议，未直接改写长期专题正文。
+
 ## 2026-07-02
 
 - 新增科技趋势每日简报：`reports/daily/2026/2026-07-02-tech-daily.md`，覆盖联合国 AI 风险评估、美国前沿模型发布标准、FTC AI 偏见防护政策、Anthropic 模型安全运营和 AI 数据中心电力基础设施。
