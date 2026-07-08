@@ -4,8 +4,9 @@
 
 ## 2026-07-07
 
-- 新增科技趋势每日简报：`reports/daily/2026/2026-07-07-tech-daily.md`，覆盖欧洲央行 AI 网络攻击防御要求、英国央行 AI 金融稳定风险、超大规模科技公司 AI 资本开支回报验证、AI 数据中心材料与冷却供应链，以及 Agent Data Injection 安全研究。
-- 更新 `reports/daily/README.md`，将 2026-07-07 科技趋势日报放入 Latest Reports 首位。
+- 新增科技趋势每日简报：`daily/tech/news-2026-07-07.md`，覆盖欧洲央行 AI 网络攻击防御要求、英国央行 AI 金融稳定风险、超大规模科技公司 AI 资本开支回报验证、AI 数据中心材料与冷却供应链，以及 Agent Data Injection 安全研究。
+- 更新 `daily/tech/README.md`，将 2026-07-07 科技趋势日报放入 Latest Reports 首位。
+- 修正误发布路径：删除 `reports/daily/2026/2026-07-07-tech-daily.md`，并将 `reports/daily/README.md` 标记为旧版历史路径，避免后续继续误用。
 - 本期信号主要强化既有 Dashboard 判断，未更新 `dashboards/index.md`；Topic 仅形成后续沉淀建议，未直接改写长期专题正文。
 
 ## 2026-07-06
