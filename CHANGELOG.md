@@ -2,30 +2,35 @@
 
 本文件记录仓库结构、报告内容和研究框架的重要更新。
 
+## 2026-07-08
+
+- 完成科技趋势历史路径全量迁移：将 `reports/daily/2026/2026-07-01-tech-daily.md`、`reports/daily/2026/2026-07-02-tech-daily.md`、`reports/daily/2026/2026-07-06-tech-daily.md` 迁移为 `daily/tech/news-2026-07-01.md`、`daily/tech/news-2026-07-02.md`、`daily/tech/news-2026-07-06.md`。
+- 将旧科技周报 `reports/weekly/2026/2026-07-06-tech-weekly.md` 迁移为 `reports/2026/2026-07-06-week28.md`，符合仓库周报命名规范。
+- 更新 `daily/tech/README.md`，补齐 2026-07-01、2026-07-02、2026-07-06、2026-07-07 和 2026-06-30 科技趋势日报入口。
+- 删除旧路径 `reports/daily/` 下的科技日报文件和索引，以及旧路径 `reports/weekly/2026/2026-07-06-tech-weekly.md`，避免后续误用旧目录。
+- 同步修正科技趋势自动化 prompt：目标仓库改为 `DavidTang0515/david-research-lab`，并强调以仓库内 `daily/tech/reporting-guidelines.md` 和根目录规范优先，禁止继续写入 `reports/daily/` 或 `reports/weekly/`。
+
 ## 2026-07-07
 
 - 新增科技趋势每日简报：`daily/tech/news-2026-07-07.md`，覆盖欧洲央行 AI 网络攻击防御要求、英国央行 AI 金融稳定风险、超大规模科技公司 AI 资本开支回报验证、AI 数据中心材料与冷却供应链，以及 Agent Data Injection 安全研究。
 - 更新 `daily/tech/README.md`，将 2026-07-07 科技趋势日报放入 Latest Reports 首位。
-- 修正误发布路径：删除 `reports/daily/2026/2026-07-07-tech-daily.md`，并将 `reports/daily/README.md` 标记为旧版历史路径，避免后续继续误用。
+- 修正误发布路径：删除 `reports/daily/2026/2026-07-07-tech-daily.md`，并将后续科技日报发布入口切回 `daily/tech/`。
 - 本期信号主要强化既有 Dashboard 判断，未更新 `dashboards/index.md`；Topic 仅形成后续沉淀建议，未直接改写长期专题正文。
 
 ## 2026-07-06
 
-- 新增科技趋势每日简报：`reports/daily/2026/2026-07-06-tech-daily.md`，覆盖联合国 AI 治理全球对话、AI 资本开支回报再平衡、SK Hynix ADR / HBM 融资、金融服务 AI 监管风险、Microsoft Xbox 重组和半导体市场信号。
-- 新增科技趋势周报：`reports/weekly/2026/2026-07-06-tech-weekly.md`，沉淀 AI 治理、算力与半导体、网络安全与数据治理、企业数字化、机器人、低空经济和宏观地缘的阶段性判断。
-- 更新 `reports/daily/README.md`，将 2026-07-06 科技趋势日报放入 Latest Reports 首位。
+- 新增科技趋势每日简报：`daily/tech/news-2026-07-06.md`，覆盖联合国 AI 治理全球对话、AI 资本开支回报再平衡、SK Hynix ADR / HBM 融资、金融服务 AI 监管风险、Microsoft Xbox 重组和半导体市场信号。
+- 新增科技趋势周报：`reports/2026/2026-07-06-week28.md`，沉淀 AI 治理、算力与半导体、网络安全与数据治理、企业数字化、机器人、低空经济和宏观地缘的阶段性判断。
 - 本期信号主要强化既有 Dashboard 判断，未更新 `dashboards/index.md`；Topic 仅在周报中形成后续沉淀建议，未直接改写长期专题正文。
 
 ## 2026-07-02
 
-- 新增科技趋势每日简报：`reports/daily/2026/2026-07-02-tech-daily.md`，覆盖联合国 AI 风险评估、美国前沿模型发布标准、FTC AI 偏见防护政策、Anthropic 模型安全运营和 AI 数据中心电力基础设施。
-- 更新 `reports/daily/README.md`，将 2026-07-02 科技趋势日报放入 Latest Reports 首位。
+- 新增科技趋势每日简报：`daily/tech/news-2026-07-02.md`，覆盖联合国 AI 风险评估、美国前沿模型发布标准、FTC AI 偏见防护政策、Anthropic 模型安全运营和 AI 数据中心电力基础设施。
 - 本期信号与现有 Dashboard 判断一致，未更新 `dashboards/index.md`。
 
 ## 2026-07-01
 
-- 新增科技趋势每日简报：`reports/daily/2026/2026-07-01-tech-daily.md`，覆盖 AI for Science、前沿模型出口管制、AI 安全补丁节奏、AI 数据中心能源基础设施、韩国半导体投资和平台 AI 监管。
-- 新增 `reports/daily/README.md`，将最新科技趋势日报放入 Latest Reports，并明确日报作为研究输入层的规则。
+- 新增科技趋势每日简报：`daily/tech/news-2026-07-01.md`，覆盖 AI for Science、前沿模型出口管制、AI 安全补丁节奏、AI 数据中心能源基础设施、韩国半导体投资和平台 AI 监管。
 - 本次信号与现有 Dashboard 判断一致，未更新 `dashboards/index.md`。
 
 ## 2026-06-30
