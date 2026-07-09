@@ -2,6 +2,12 @@
 
 本文件记录仓库结构、报告内容和研究框架的重要更新。
 
+## 2026-07-09
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-07-09.md`，覆盖 OpenAI 新模型发布与政府安全审查语境、Claude Code 后门风险争议、Meta 加拿大 AI 数据中心、Alberta 数据中心招商、自研 AI 芯片供应链瓶颈，以及 Agentic ransomware 线索。
+- 更新 `daily/tech/README.md`，将 2026-07-09 科技趋势日报放入 Latest Reports 首位。
+- 本期信号主要强化既有 Dashboard 判断，未更新 `dashboards/index.md`；Topic 仅形成后续沉淀建议，未直接改写长期专题正文。
+
 ## 2026-07-08
 
 - 完成科技趋势历史路径全量迁移：将 `reports/daily/2026/2026-07-01-tech-daily.md`、`reports/daily/2026/2026-07-02-tech-daily.md`、`reports/daily/2026/2026-07-06-tech-daily.md` 迁移为 `daily/tech/news-2026-07-01.md`、`daily/tech/news-2026-07-02.md`、`daily/tech/news-2026-07-06.md`。
