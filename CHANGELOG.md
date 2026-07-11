@@ -2,6 +2,12 @@
 
 本文件记录仓库结构、报告内容和研究框架的重要更新。
 
+## 2026-07-11
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-07-11.md`，覆盖英国关键云服务商金融韧性监管、南亚科技大幅扩产、SK 海力士美国上市、美光扩大美国 DRAM 与晶圆供应链投资，以及 AI 芯片扩产与估值担忧并存。
+- 更新 `daily/tech/README.md`，将 2026-07-11 科技趋势日报放入 Latest Reports 首位。
+- 本期信号主要强化“云服务集中度上升为关键基础设施监管问题”和“AI 存储产业进入扩产、融资与回报验证并行阶段”两项既有判断，未更新 `dashboards/index.md`；Topic 暂不改写，建议在后续周报中合并观察。
+
 ## 2026-07-10
 
 - 新增科技趋势每日简报：`daily/tech/news-2026-07-10.md`，覆盖 Google Cloud AlphaEvolve GA、Anthropic 公众提问与 Claude 使用反思、Meta 加拿大 1GW AI 数据中心、中国“十五五”碳达峰行动方案中的绿色算力要求、LingBot-Video 开源，以及 LingBot-VLA 2.0 具身模型进展。
