@@ -4,6 +4,7 @@ David Research Lab 的 2026 年世界杯动态周报索引。
 
 ## Latest Weekly Reports
 
+- [2026-07-13 世界杯动态周报](./2026-07-13-weekly.md)
 - [2026-07-06 世界杯动态周报](./2026-07-06-weekly.md)
 
 ## Methodology
