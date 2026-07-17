@@ -2,6 +2,12 @@
 
 本文件记录仓库结构、报告内容和研究框架的重要更新。
 
+## 2026-07-17
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-07-17.md`，覆盖台积电二季度业绩与扩产、Intel 与 Google Cloud 企业 Agent 合作、中国互联网数据服务用电增长、世界人工智能大会全球治理与国产算力议题，以及半导体市场高增长与高波动并存。
+- 更新 `daily/tech/README.md`，将 2026-07-17 科技趋势日报放入 Latest Reports 首位。
+- 本期信号继续强化“AI 从模型竞争进入基础设施、核心流程和资本回报共同验证阶段”的既有判断；未更新 `dashboards/index.md` 或 Topic，也未生成独立趋势信号文件。
+
 ## 2026-07-16
 
 - 新增科技趋势每日简报：`daily/tech/news-2026-07-16.md`，覆盖纽约大型数据中心暂停令、澳大利亚数据中心电力与用水责任、ASML 二季度业绩、HBM 与 DRAM 供给预期，以及台积电财报验证节点。
@@ -78,9 +84,6 @@
 
 ## 2026-06-30
 
-- 新增 `daily/tech/` 科技趋势日报栏目，承接每日科技动态输入、趋势信号和周报沉淀。
-- 新增 `daily/tech/reporting-guidelines.md`，固化科技趋势每日简报、周报、信息源、Topic / Dashboard 更新和发布规则。
-- 新增试跑版科技趋势每日简报：`daily/tech/news-2026-06-30.md`。
-- 新增试跑版科技趋势周报：`reports/2026/2026-06-30-tech-week26.md`。
-- 更新 `daily/tech/README.md`，将 2026-06-30 科技趋势每日简报放入 Latest Reports。
-- 更新 `daily/README.md`，将 Tech Daily 纳入 Daily Intelligence 当前栏目。
+- 新增科技趋势每日简报：`daily/tech/news-2026-06-30.md`。
+- 新增科技趋势日报与周报规范：`daily/tech/reporting-guidelines.md`。
+- 新增科技趋势日报栏目首页：`daily/tech/README.md`。
