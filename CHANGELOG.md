@@ -2,6 +2,12 @@
 
 本文件记录仓库结构、报告内容和研究框架的重要更新。
 
+## 2026-07-19
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-07-19.md`，覆盖美国多地 AI 数据中心社区抗议、世界人工智能合作组织开放机制与全球南方定位、“全球智惠平台·AI 语料场景合作清单”、AI 数据中心资本开支成本通胀，以及拟人化 AI 服务新规进入实施阶段。
+- 更新 `daily/tech/README.md`，将 2026-07-19 科技趋势日报放入 Latest Reports 首位。
+- 本期信号继续强化“AI 基础设施进入能源、资源与社会许可约束”“AI 治理组织化”“企业 AI 转向语料、场景和全生命周期回报评价”等既有判断；未更新 `dashboards/index.md` 或 Topic，也未生成独立趋势信号文件。
+
 ## 2026-07-18
 
 - 新增科技趋势每日简报：`daily/tech/news-2026-07-18.md`，覆盖世界人工智能合作组织成立、OpenAI“每美元有用智能”企业 AI 评价框架、欧盟 Google Android AI 互操作和搜索数据措施、AI 驱动网络攻击与漏洞协调，以及 Alphabet、Intel 财报对 AI 投入回报的下一轮验证。
@@ -77,19 +83,3 @@
 - 新增科技趋势每日简报：`daily/tech/news-2026-07-06.md`，覆盖联合国 AI 治理全球对话、AI 资本开支回报再平衡、SK Hynix ADR / HBM 融资、金融服务 AI 监管风险、Microsoft Xbox 重组和半导体市场信号。
 - 新增科技趋势周报：`reports/2026/2026-07-06-week28.md`，沉淀 AI 治理、算力与半导体、网络安全与数据治理、企业数字化、机器人、低空经济和宏观地缘的阶段性判断。
 - 本期信号主要强化既有 Dashboard 判断，未更新 `dashboards/index.md`；Topic 仅在周报中形成后续沉淀建议，未直接改写长期专题正文。
-
-## 2026-07-02
-
-- 新增科技趋势每日简报：`daily/tech/news-2026-07-02.md`，覆盖联合国 AI 风险评估、美国前沿模型发布标准、FTC AI 偏见防护政策、Anthropic 模型安全运营和 AI 数据中心电力基础设施。
-- 本期信号与现有 Dashboard 判断一致，未更新 `dashboards/index.md`。
-
-## 2026-07-01
-
-- 新增科技趋势每日简报：`daily/tech/news-2026-07-01.md`，覆盖 AI for Science、前沿模型出口管制、AI 安全补丁节奏、AI 数据中心能源基础设施、韩国半导体投资和平台 AI 监管。
-- 本次信号与现有 Dashboard 判断一致，未更新 `dashboards/index.md`。
-
-## 2026-06-30
-
-- 新增科技趋势每日简报：`daily/tech/news-2026-06-30.md`。
-- 新增科技趋势日报与周报规范：`daily/tech/reporting-guidelines.md`。
-- 新增科技趋势日报栏目首页：`daily/tech/README.md`。
