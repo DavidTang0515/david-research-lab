@@ -28,7 +28,7 @@ David Research Lab 的 2026 年世界杯临时分析专区。
 
 ## Final Review
 
-- [2026 世界杯最终复盘](../../reports/world-cup-2026/2026-07-20-final-review.md)
+- [2026 世界杯全景总结报告](../../reports/world-cup-2026/2026-07-20-final-review.md) — 赛事纪录、热门比赛、球队与球员、战术、舆论演进、社交热度及特殊状况的完整复盘。
 
 ## Weekly Reports
 
