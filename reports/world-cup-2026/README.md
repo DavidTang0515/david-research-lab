@@ -4,7 +4,7 @@ David Research Lab 的 2026 年世界杯动态周报与最终复盘索引。
 
 ## Final Review
 
-- [2026 世界杯最终复盘](./2026-07-20-final-review.md)
+- [2026 世界杯全景总结报告](./2026-07-20-final-review.md) — 覆盖赛事纪录、热门比赛、球队与球员、xG、战术、舆论演进、社交热度、特殊状况、商业与治理争议。
 
 ## Latest Weekly Reports
 
