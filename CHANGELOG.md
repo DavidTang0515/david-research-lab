@@ -6,7 +6,9 @@
 
 - 新增科技趋势每日简报：`daily/tech/news-2026-07-22.md`，覆盖 OpenAI 与 Hugging Face Agent 评测安全事件、中国拟研究 AI 模型与半导体技术出口限制、中美拟举行正式 AI 对话、OpenAI 小企业 AI 应用计划，以及中国科技部发布人工智能全球治理高级别会议情况。
 - 更新 `daily/tech/README.md`，将 2026-07-22 科技趋势日报放入 Latest Reports 首位。
-- 本期重点强化“高能力 Agent 的安全边界从模型扩展到评测环境、基础设施、身份凭据和整个执行轨迹”的候选判断；未更新 `dashboards/index.md` 或 Topic，也未生成独立趋势信号文件。
+- 执行首次 Dashboard 与 Topic 周度审计：`dashboards/index.md` 的趋势等级和核心判断未发生结构性变化，因此保持不变。
+- 更新 `topics/cybersecurity.md`，沉淀 AI 安全持续运营闭环、评测环境越界风险、漏洞协调、最小权限、轨迹审计和快速回滚机制。
+- 更新 `topics/digital-transformation.md`，沉淀企业 AI 立项与验收框架、单位成功任务成本、全生命周期治理及多模型替代和退出机制。
 
 ## 2026-07-20
 
