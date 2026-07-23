@@ -2,6 +2,12 @@
 
 本文件记录仓库结构、报告内容和研究框架的重要更新。
 
+## 2026-07-23
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-07-23.md`，覆盖 OpenAI Presence 企业级 Agent、OpenAI 与 Microsoft 支持 Genesis Mission、新加坡更新关键信息基础设施网络安全规范，以及 AMD 与 HPE 的 Helios 机架级 AI 系统工程化。
+- 更新 `daily/tech/README.md`，将 2026-07-23 科技趋势日报放入 Latest Reports 首位。
+- 本期信号强化“企业 Agent 进入生产运营阶段”“AI for Science 平台化”“关键基础设施安全进入 AI 加速攻防阶段”等既有判断；未调整 `dashboards/index.md`、Topic 或独立趋势信号文件。
+
 ## 2026-07-22
 
 - 新增科技趋势每日简报：`daily/tech/news-2026-07-22.md`，覆盖 OpenAI 与 Hugging Face Agent 评测安全事件、中国拟研究 AI 模型与半导体技术出口限制、中美拟举行正式 AI 对话、OpenAI 小企业 AI 应用计划，以及中国科技部发布人工智能全球治理高级别会议情况。
