@@ -2,6 +2,12 @@
 
 本文件记录仓库结构、报告内容和研究框架的重要更新。
 
+## 2026-07-24
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-07-24.md`，覆盖 ChatGPT Health 上线、Alphabet AI 收入与资本开支回报验证、Intel AI 数据中心需求向 CPU 与晶圆代工扩散、APEC 数字与 AI 部长声明、长鑫存储产业化融资，以及 NSA 对 Zimbra 国家级钓鱼与零日利用活动的警告。
+- 更新 `daily/tech/README.md`，将 2026-07-24 科技趋势日报放入 Latest Reports 首位。
+- 本期信号强化“AI 进入高敏感个人数据场景”“AI 基础设施进入资本回报验证”“AI 需求向系统级半导体扩散”和“区域 AI 治理协同”等既有判断；未调整 `dashboards/index.md`、Topic 或独立趋势信号文件。
+
 ## 2026-07-23
 
 - 新增科技趋势每日简报：`daily/tech/news-2026-07-23.md`，覆盖 OpenAI Presence 企业级 Agent、OpenAI 与 Microsoft 支持 Genesis Mission、新加坡更新关键信息基础设施网络安全规范，以及 AMD 与 HPE 的 Helios 机架级 AI 系统工程化。
