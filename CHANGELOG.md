@@ -2,6 +2,12 @@
 
 本文件记录仓库结构、报告内容和研究框架的重要更新。
 
+## 2026-07-25
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-07-25.md`，覆盖 Meta AI 连接邮箱与日历、Google 签署欧盟 AI 生成内容透明度行为准则、AWS 生产 Agent 静默失败治理、中国存储芯片议价能力与美国审查、美国 AI 数据中心电力成本分担，以及新加坡对 Langflow 严重漏洞的告警。
+- 更新 `daily/tech/README.md`，将 2026-07-25 科技趋势日报放入 Latest Reports 首位。
+- 本期信号强化“Agent 权限治理”“AI 内容溯源”“生产 Agent 结果与轨迹评测”“国产存储进入规模与议价验证”和“AI 数据中心公共成本分担”等既有判断；未调整 `dashboards/index.md`、Topic 或独立趋势信号文件。
+
 ## 2026-07-24
 
 - 新增科技趋势每日简报：`daily/tech/news-2026-07-24.md`，覆盖 ChatGPT Health 上线、Alphabet AI 收入与资本开支回报验证、Intel AI 数据中心需求向 CPU 与晶圆代工扩散、APEC 数字与 AI 部长声明、长鑫存储产业化融资，以及 NSA 对 Zimbra 国家级钓鱼与零日利用活动的警告。
