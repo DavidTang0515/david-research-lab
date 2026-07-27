@@ -6,7 +6,12 @@
 
 - 新增科技趋势每日简报：`daily/tech/news-2026-07-27.md`，覆盖 AI 数据中心融资担保待核实线索、韩国 HBM 与机架级基础设施合作、Intel 与蓝思科技玻璃基板先进封装、Langflow 严重漏洞持续处置，以及数据中心电网成本分担政策。
 - 更新 `daily/tech/README.md`，将 2026-07-27 科技趋势日报放入 Latest Reports 首位。
-- 科技周报目标路径 `reports/2026/2026-07-27-week31.md` 已被同日游戏产业周报占用；为避免覆盖其他模块，本次未发布科技周报。未调整 `dashboards/index.md`、Topic 或独立趋势信号文件。
+- 科技周报目标路径 `reports/2026/2026-07-27-week31.md` 已被同日游戏产业周报占用；为避免覆盖其他模块，本次未发布科技周报。
+- 执行 Dashboard 与 Topic 周度审计：最近一周的新增信息强化既有高等级趋势，但尚未改变 `dashboards/index.md` 的趋势等级或核心方向，因此 Dashboard 保持不变。
+- 更新 `topics/ai.md`，沉淀 AI 从模型与 Agent 扩展到算力、能源、融资、社会许可、生产运营和资本回报共同验证的系统框架。
+- 更新 `topics/semiconductor.md`，沉淀定制加速器、HBM、先进封装、玻璃基板、机架级系统和有效产能回报的长期判断。
+- 更新 `topics/game-industry.md`，沉淀账户与数字内容库竞争、跨设备授权、平台访问权风险、资本结构约束及国产高规格单机商业化验证。
+- 审计 `topics/cybersecurity.md`、`topics/digital-transformation.md`、`topics/robotics.md`、`topics/low-altitude-economy.md` 和 `topics/macroeconomy.md`；最近一周信息未改变其现有核心判断，本次不做重复或措辞性更新。
 
 ## 2026-07-26
 
