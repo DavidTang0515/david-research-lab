@@ -2,6 +2,12 @@
 
 本文件记录仓库结构、报告内容和研究框架的重要更新。
 
+## 2026-07-28
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-07-28.md`，覆盖 Google Beyond Zero 动作级持续授权、Microsoft Project Perception 闭环 Agent 防御、Open Secure AI Alliance、欧盟 AI Omnibus 生效、AI 推动岗位任务边界重组，以及企业知识库任务感知压缩。
+- 更新 `daily/tech/README.md`，将 2026-07-28 科技趋势日报放入 Latest Reports 首位。
+- 本期信号强化“Agent 权限治理从会话级走向资源与动作级持续授权”“网络安全进入 AI 对抗 AI 的闭环运营”“企业 AI 重塑任务边界和知识工程”等既有判断；未调整 `dashboards/index.md`、Topic 或独立趋势信号文件。
+
 ## 2026-07-27
 
 - 新增科技趋势每日简报：`daily/tech/news-2026-07-27.md`，覆盖 AI 数据中心融资担保待核实线索、韩国 HBM 与机架级基础设施合作、Intel 与蓝思科技玻璃基板先进封装、Langflow 严重漏洞持续处置，以及数据中心电网成本分担政策。
