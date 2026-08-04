@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="350" viewBox="0 0 1200 350"
+     role="img" aria-labelledby="title desc">
+  <title id="title">从信号到知识</title>
+  <desc id="desc">Daily 记录事实与来源，Reports 记录阶段变化，Topics 沉淀长期知识，Dashboard 更新当前判断。</desc>
+
+  <rect width="1200" height="350" rx="28" fill="#1D201E"/>
+  <path d="M64 74H1136" stroke="#46504B" stroke-width="1.5"/>
+  <text x="64" y="48" fill="#DCEBE6" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" font-weight="700" letter-spacing="2">FROM SIGNAL TO KNOWLEDGE</text>
+  <text x="1136" y="48" text-anchor="end" fill="#8C9790" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">RESEARCH LOOP / 01—04</text>
+
+  <g id="step-daily" transform="translate(64 104)">
+    <rect width="238" height="154" rx="18" fill="#29302C" stroke="#65726B" stroke-width="1.5"/>
+    <text x="24" y="34" fill="#77B5A9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" font-weight="700">01 / INPUT</text>
+    <text x="24" y="78" fill="#F8F6EF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="28" font-weight="700">Daily</text>
+    <text x="24" y="110" fill="#C1C9C2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="20">记录事实与来源</text>
+    <circle cx="206" cy="124" r="5" fill="#77B5A9"/>
+  </g>
+
+  <path d="M316 181H354" stroke="#77B5A9" stroke-width="2"/>
+  <path d="M346 173L354 181L346 189" fill="none" stroke="#77B5A9" stroke-width="2"/>
+
+  <g id="step-reports" transform="translate(364 104)">
+    <rect width="238" height="154" rx="18" fill="#29302C" stroke="#65726B" stroke-width="1.5"/>
+    <text x="24" y="34" fill="#77B5A9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" font-weight="700">02 / REVIEW</text>
+    <text x="24" y="78" fill="#F8F6EF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="28" font-weight="700">Reports</text>
+    <text x="24" y="110" fill="#C1C9C2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="20">记录阶段变化</text>
+    <circle cx="206" cy="124" r="5" fill="#77B5A9"/>
+  </g>
+
+  <path d="M616 181H654" stroke="#77B5A9" stroke-width="2"/>
+  <path d="M646 173L654 181L646 189" fill="none" stroke="#77B5A9" stroke-width="2"/>
+
+  <g id="step-topics" transform="translate(664 104)">
+    <rect width="238" height="154" rx="18" fill="#29302C" stroke="#65726B" stroke-width="1.5"/>
+    <text x="24" y="34" fill="#77B5A9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" font-weight="700">03 / RETAIN</text>
+    <text x="24" y="78" fill="#F8F6EF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="28" font-weight="700">Topics</text>
+    <text x="24" y="110" fill="#C1C9C2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="20">沉淀长期知识</text>
+    <circle cx="206" cy="124" r="5" fill="#77B5A9"/>
+  </g>
+
+  <path d="M916 181H954" stroke="#77B5A9" stroke-width="2"/>
+  <path d="M946 173L954 181L946 189" fill="none" stroke="#77B5A9" stroke-width="2"/>
+
+  <g id="step-dashboard" transform="translate(964 104)">
+    <rect width="172" height="154" rx="18" fill="#1C6B63"/>
+    <text x="22" y="34" fill="#DCEBE6" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" font-weight="700">04 / STATE</text>
+    <text x="22" y="78" fill="#F8F6EF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="25" font-weight="700">Dashboard</text>
+    <text x="22" y="110" fill="#DCEBE6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19">更新当前判断</text>
+    <circle cx="140" cy="124" r="5" fill="#F8F6EF"/>
+  </g>
+
+  <path d="M64 298H1136" stroke="#46504B" stroke-width="1.5"/>
+  <text x="64" y="324" fill="#8C9790" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19">只有经过连续观察、再次核验并具备保留价值的信号，才进入长期层。</text>
+</svg>

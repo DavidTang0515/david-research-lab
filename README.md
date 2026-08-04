@@ -1,133 +1,83 @@
-# David Research Lab 核心研究库
+# David Research Lab
 
-这是 David Research Lab 的最终研究知识库，用于沉淀经济、科技、政治、产业和企业数字化转型趋势。
+<p align="center">
+  <img src="./assets/readme/hero.svg" width="100%" alt="David Research Lab：将经过核实的日常信号沉淀为长期研究知识。">
+</p>
 
-日常信息通过仓库内的 `daily/` 栏目进入，经过筛选后，再形成阶段报告、长期知识和当前判断。
+David Research Lab 是一个长期维护的中文研究知识库：把经过核实的日常信息，转成可回看的阶段报告、可复用的长期专题，以及用于快速判断的趋势仪表盘。
 
-本仓库不定位为新闻收藏夹，而是一个持续演进的研究系统：
+> 不是新闻收藏夹，而是一套持续把信息变成知识的研究系统。
 
-> Daily 记录信号，Dashboard 看现在，Reports 记录变化，Topics 沉淀知识。
+## 从这里开始
 
----
+| 想了解什么 | 入口 | 你会看到什么 |
+|---|---|---|
+| 现在怎么看 | [Dashboard](./dashboards/index.md) | 各领域当前状态、趋势等级和一句话判断 |
+| 今天发生了什么 | [Daily](./daily/) | 经过核实的事件、来源、公众反应和初步信号 |
+| 最近发生了什么变化 | [Reports](./reports/) | 周报、月报、阶段复盘和专题性总结 |
+| 长期怎么看 | [Topics](./topics/) | AI、半导体、网络安全、数字化等可持续更新的知识 |
 
-## 快速入口
+<p align="center">
+  <img src="./assets/readme/research-flow.svg" width="100%" alt="研究内容从 Daily 进入 Reports，再沉淀到 Topics 并更新 Dashboard 的流程图。">
+</p>
 
-| 入口 | 用途 |
-|---|---|
-| `PROJECT_CONTEXT.md` | AI 入职说明：先理解项目定位、角色分工和最高维护原则 |
-| `EDITORIAL_POLICY.md` | 编辑政策：定义 Codex 日常主编、ChatGPT 外部评审的长期协作模式 |
-| `USER_GUIDE.md` | 使用手册：以后怎么提要求、怎么看仓库 |
-| `daily/` | 日报入口：记录可追溯的日常信息和趋势信号 |
-| `daily/game/` | 游戏日报：游戏新闻、玩家态度和产业信号 |
-| `daily/world-cup-2026/` | 世界杯专区：每日赛果、格局变化和前三名动态判断 |
-| `dashboards/index.md` | 趋势仪表盘：一分钟了解当前状态 |
-| `reports/` | 周报、月报、年报：记录阶段性变化 |
-| `topics/` | 专题知识库：长期沉淀 AI、半导体、网络安全等主题 |
-| `AGENTS.md` | AI 协作规范：约束 AI 如何生成和维护内容 |
-| `RESEARCH_PHILOSOPHY.md` | 研究方法论：明确仓库的判断框架 |
-| `CHANGELOG.md` | 更新日志：记录仓库重要变化 |
+## 当前栏目
 
----
+- [科技趋势日报](./daily/tech/)：承接 AI、算力、半导体、数字治理和其他科技趋势的每日输入。
+- [游戏日报](./daily/game/)：记录游戏新闻、玩家态度、平台变化和产业信号。
+- [2026 世界杯专区](./daily/world-cup-2026/)：保存赛事期间的日报、动态总览和最终复盘。
 
-## 最终保留的核心模块
+这些栏目是输入层，不直接等同于长期结论。只有经过连续观察、再次核验并具备保留价值的信号，才会上升到 Report、Topic 或 Dashboard。
 
-```text
-Research Lab/
-├── README.md
-├── USER_GUIDE.md
-├── EDITORIAL_POLICY.md
-├── AGENTS.md
-├── RESEARCH_PHILOSOPHY.md
-├── CHANGELOG.md
-├── daily/
-├── dashboards/
-├── reports/
-├── topics/
-└── archive/
-```
+## 研究结构
 
-不再继续扩展复杂模块，避免仓库变成难以维护的资料夹。
+| 层级 | 回答的问题 | 主要内容 |
+|---|---|---|
+| **Daily** | 今天发生了什么？ | 事件、来源、初步影响和后续观察 |
+| **Reports** | 最近发生了什么变化？ | 按时间组织的周报、月报和阶段复盘 |
+| **Topics** | 长期怎么看？ | 产业结构、发展阶段、长期趋势和观察指标 |
+| **Dashboard** | 现在怎么看？ | 当前状态、趋势等级和简短判断 |
 
----
+## 当前研究面
 
-## 一层输入与三层研究结构
+- [AI](./topics/ai.md) · Agent、算力、企业应用、治理与资本回报
+- [半导体](./topics/semiconductor.md) · 芯片、存储、先进封装与供应链
+- [网络安全](./topics/cybersecurity.md) · 数据安全、零信任、Agent 权限与供应链风险
+- [企业数字化](./topics/digital-transformation.md) · 数据治理、组织变革与国企数字化
+- [低空经济](./topics/low-altitude-economy.md) · 空域、基础设施与商业化验证
+- [机器人](./topics/robotics.md) · 人形机器人、智能制造与真实应用
+- [宏观经济](./topics/macroeconomy.md) · 利率、通胀、能源、汇率与资本开支
+- [游戏产业](./topics/game-industry.md) · 平台竞争、内容消费与跨媒体 IP
 
-### Daily：今天发生了什么
+## 常用指令
 
-回答：今天有哪些经过核实、值得记录的信息？
-
-日报是研究输入层。它可以保留事件、玩家或公众反应、来源证据和初步影响判断，但不能用单日信息直接改写长期结论。
-
-### 1. Dashboard：现在怎么看
-
-回答：当前世界处于什么状态？
-
-用于快速查看：
-
-- AI 热度
-- 半导体景气度
-- 网络安全重要性
-- 宏观风险
-- 地缘政治风险
-- 对日常生活的影响
-
-适合使用状态表、趋势等级表和风险热度表。
-
-### 2. Reports：最近发生了什么
-
-回答：本周、本月、本年发生了什么重要变化？
-
-报告是时间维度的记录，写完后原则上不反复修改。
-
-适合使用趋势雷达表、事件时间线、影响矩阵和指标变化表。
-
-### 3. Topics：长期怎么看
-
-回答：这个领域到底是什么、怎么演进、长期趋势是什么？
-
-专题是主题维度的知识库，会长期更新。
-
-适合使用产业链图、核心玩家矩阵、发展阶段表和技术路线表。
-
----
-
-## 当前核心专题
-
-| Topic | 说明 |
-|---|---|
-| `topics/ai.md` | AI、Agent、AI 搜索、企业 AI |
-| `topics/semiconductor.md` | 半导体、算力、芯片供应链 |
-| `topics/cybersecurity.md` | 网络安全、数据安全、零信任、AI 安全 |
-| `topics/digital-transformation.md` | 企业数字化、国企数字化、数据治理 |
-| `topics/low-altitude-economy.md` | 低空经济、无人机、空域管理、智慧交通 |
-| `topics/robotics.md` | 机器人、人形机器人、智能制造 |
-| `topics/macroeconomy.md` | 宏观经济、利率、通胀、能源、汇率 |
-| `topics/game-industry.md` | 游戏产业、主机游戏、内容消费、玩家口碑 |
-
----
-
-## 以后常用指令
-
-你只需要对 AI 说：
+日常维护可以直接提出目标，不需要先理解仓库内部路径：
 
 - 更新本周周报
 - 更新 Dashboard
-- 更新 AI 专题
-- 更新半导体专题
-- 更新网络安全专题
+- 更新 AI Topic
+- 更新半导体 Topic
+- 更新网络安全 Topic
 - 更新本月月报
-- 复盘过去半年趋势
+- 做季度、半年或年度复盘
 
-具体文件怎么更新，由 AI 按 `AGENTS.md` 和 `USER_GUIDE.md` 执行。
-
-日报中的长期信号应先单独形成趋势信号，再判断是否进入 Report、Topic 或 Dashboard，不得把日报全文直接复制到长期内容中。
-
----
+具体文件位置和最小修改范围，由 [AGENTS.md](./AGENTS.md) 与 [USER_GUIDE.md](./USER_GUIDE.md) 约束。
 
 ## 研究原则
 
-1. 少罗列新闻，多解释趋势。
-2. 区分事实、判断和假设。
-3. 优先引用官方数据、国际组织、公司官方发布和主流媒体。
-4. 关注对普通生活、企业经营、数字化转型和产业变化的影响。
-5. 不把短期市场情绪误判为长期趋势。
+- 事实、判断和假设分开写，来源要能回读。
+- 少罗列新闻，多解释趋势；少情绪，多证据。
+- 不用单条新闻推导确定性结论，也不把短期市场情绪当作长期趋势。
+- 投资相关内容只做行业与资产方向观察，不直接给出个股买卖指令，不承诺收益。
+- 数据用于支撑判断，不为堆砌统计而增加正文负担。
+
+## 维护入口
+
+- [项目背景](./PROJECT_CONTEXT.md)
+- [研究方法论](./RESEARCH_PHILOSOPHY.md)
+- [编辑政策](./EDITORIAL_POLICY.md)
+- [AI 协作规范](./AGENTS.md)
+- [使用手册](./USER_GUIDE.md)
+- [更新日志](./CHANGELOG.md)
+
+David Research Lab 的目标不是积累最多文件，而是持续留下未来仍然可复用的研究判断。
