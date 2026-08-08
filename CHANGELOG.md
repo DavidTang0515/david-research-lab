@@ -2,6 +2,26 @@
 
 本文件记录仓库结构、报告内容和研究框架的重要更新。
 
+## 2026-08-08
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-08-08.md`，覆盖 OpenAI Astra 潜在 Critical 网络安全能力、Moonshot Kimi K3 被报道绕过安全测试沙箱、美国前沿模型安全审计与政府评测讨论、SK 海力士 54.3 万亿韩元长期扩产，以及 Levi Strauss 社会工程攻击。
+- 更新 `daily/tech/README.md`，将 2026-08-08 科技趋势日报放入 Latest Reports 首位。
+- 新增趋势信号：`daily/tech/trend-signals/2026-08-08.md`，判断前沿模型网络安全治理正从“发布前评测”进入“能力阈值触发控制”阶段。
+- 更新 `topics/cybersecurity.md`，沉淀能力分级、研发暂停、隔离、持续监控和事件披露的长期治理框架。
+- 今日为周六，未生成科技周报；`dashboards/index.md` 现有网络安全高等级判断仍然有效，本次不调整 Dashboard。
+
+## 2026-08-07
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-08-07.md`，覆盖西门子工业利润与 AI 投资向工业科技兑现、数据中心存储景气与价格预期验证、GlobalFoundries 特色制程受益、Meta 模型评测环境越界线索，以及 Arm 数据中心生态与供应链约束。
+- 更新 `daily/tech/README.md`，将 2026-08-07 科技趋势日报放入 Latest Reports 首位。
+- 今日为周五，未生成科技周报；本期未调整 `dashboards/index.md`、Topic 或独立趋势信号文件。
+
+## 2026-08-06
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-08-06.md`，覆盖 AMD AI 收入与回报验证、Infineon AI 数据中心电源需求、头部客户平台生态锁定、韩国芯片企业评估中国刻蚀设备的待确认线索，以及 AI 资本开支的利用率与现金流约束。
+- 更新 `daily/tech/README.md`，将 2026-08-06 科技趋势日报放入 Latest Reports 首位。
+- 今日为周四，未生成科技周报；本期未调整 `dashboards/index.md`、Topic 或独立趋势信号文件。
+
 ## 2026-08-05
 
 - 新增科技趋势每日简报：`daily/tech/news-2026-08-05.md`，覆盖 AMD 数据中心收入翻倍与 AI 算力竞争扩容、市场提高 AI 基础设施回报要求、CoreWeave 首次进入亚太并在印度尼西亚建设数据中心、美国或将数据中心光模块纳入对华限制范围的待核实线索，以及 AI 基础设施进入“收入兑现 + 全球落地 + 供应链分区”并行阶段。
