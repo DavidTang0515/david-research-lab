@@ -2,6 +2,37 @@
 
 本文件记录仓库结构、报告内容和研究框架的重要更新。
 
+## 2026-08-17
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-08-17.md`。过去 24 小时处于周末低新闻窗口，未以低价值资讯凑足条目；重点延续核验 Pax Silica 阵营化草案与 NVIDIA / SB Energy 算力融资交易的证据边界。
+- 新增科技趋势周报：`reports/2026/2026-08-17-week34.md`，汇总 2026-08-10 至 2026-08-17 科技日报，沉淀 AI 基础设施金融化、电力与社会许可、AI 安全现实攻击与外部问责、先进封装与晶圆代工、Robotaxi 国际复制及科技地缘阵营化等阶段性变化。
+- 更新 `daily/tech/README.md`，将 2026-08-17 科技趋势日报放入 Latest Reports 首位。
+- 周度审计确认 `dashboards/index.md` 现有 AI、半导体、网络安全和地缘政治判断仍有效，本次不调整 Dashboard；现有 AI、半导体、网络安全、企业数字化和机器人 Topic 已覆盖本周核心结构，本次不做重复扩写，也未新增趋势信号。
+
+## 2026-08-16
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-08-16.md`，覆盖 NVIDIA / SB Energy / OpenAI 数据中心融资待核实线索、Anthropic 潜在 IPO 的远期收入估值、Pax Silica 阵营化草案，以及美国 open-weight 模型政策讨论。
+- 更新 `daily/tech/README.md`，将 2026-08-16 科技趋势日报放入 Latest Reports 首位。
+- 今日为周日，未生成科技周报；本期未调整 `dashboards/index.md`、Topic 或独立趋势信号文件。
+
+## 2026-08-15
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-08-15.md`，覆盖中芯国际高利用率与提价、Applied Materials 先进封装增长、NVIDIA 算力融资资产化路径、小马智行与 Uber 欧洲 Robotaxi 千辆级部署，以及 AI 资产回报验证。
+- 更新 `daily/tech/README.md`，将 2026-08-15 科技趋势日报放入 Latest Reports 首位。
+- 今日为周六，未生成科技周报；本期未调整 `dashboards/index.md`、Topic 或独立趋势信号文件。
+
+## 2026-08-14
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-08-14.md`，覆盖台湾官方确认 AI 辅助参与政府网络攻击、中芯国际 AI 需求兑现、Together AI 数据中心工程订单、PJM 大型负荷治理、RWE 数据中心站点资源化，以及文远知行海外 Robotaxi 扩张。
+- 更新 `daily/tech/README.md`，将 2026-08-14 科技趋势日报放入 Latest Reports 首位。
+- 今日为周五，未生成科技周报；本期未调整 `dashboards/index.md`、Topic 或独立趋势信号文件。
+
+## 2026-08-13
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-08-13.md`，覆盖 CoreWeave / Nebius AI 云需求与资本回报、Foxconn AI 服务器改变制造业收入结构、Google DeepMind 组织调整、韩国 Seven Major SEED 科技主权路线图，以及台湾自主 AI Agent 网络攻击的待核验线索。
+- 更新 `daily/tech/README.md`，将 2026-08-13 科技趋势日报放入 Latest Reports 首位。
+- 今日为周四，未生成科技周报；本期未调整 `dashboards/index.md`、Topic 或独立趋势信号文件。
+
 ## 2026-08-12
 
 - 新增科技趋势每日简报：`daily/tech/news-2026-08-12.md`，覆盖 Supermicro FY2027 AI 服务器收入展望、EIA 对美国 AI 数据中心用电增长的最新预测、数据中心自备天然气能源模式、Sony/TSMC 下一代图像传感器合资项目，以及 NVIDIA Nemotron 4 待确认规格线索。
