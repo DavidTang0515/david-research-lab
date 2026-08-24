@@ -2,6 +2,14 @@
 
 本文件记录仓库结构、报告内容和研究框架的重要更新。
 
+## 2026-08-24
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-08-24.md`，并新增科技趋势周报：`reports/2026/2026-08-24-week35.md`，汇总过去 7 天 AI 基础设施融资与信用支持、数据中心社会许可、定制芯片与存储、Robotaxi 商业化和企业 AI 韧性等变化。
+- 更新 `topics/ai.md`，将供应商信用支持、长期采购与股权绑定，以及 powered land / 社会许可从 ESG 议题进入项目交付条件，沉淀为长期观察框架。
+- 完成 Dashboard 与 Topics 周度审计：`dashboards/index.md` 现有 AI、半导体、网络安全、宏观、地缘、机器人、低空经济和游戏产业趋势等级与核心判断仍有效，本次不调整 Dashboard。
+- 审计 `topics/semiconductor.md`、`topics/cybersecurity.md`、`topics/digital-transformation.md`、`topics/robotics.md`、`topics/low-altitude-economy.md`、`topics/macroeconomy.md` 和 `topics/game-industry.md`；本周新增证据主要属于既有判断的连续验证，尚不足以改变核心框架，因此不做重复或措辞性更新。
+- 最近 7 天没有新的游戏日报；`daily/game/` 最新正式日报仍为 2026-08-04，最新游戏产业周报为 2026-08-03。本次未用过期资料推导新的游戏长期判断。
+
 ## 2026-08-17
 
 - 新增科技趋势每日简报：`daily/tech/news-2026-08-17.md`。过去 24 小时处于周末低新闻窗口，未以低价值资讯凑足条目；重点延续核验 Pax Silica 阵营化草案与 NVIDIA / SB Energy 算力融资交易的证据边界。
