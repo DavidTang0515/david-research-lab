@@ -2,6 +2,19 @@
 
 本文件记录仓库结构、报告内容和研究框架的重要更新。
 
+## 2026-08-26
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-08-26.md`，覆盖 Gemini Enterprise 金融/法律行业 Agent、Linux Foundation TRACE 运行时证明、AWS OpenSearch MCP Apps 可验证观测、Waymo 慕尼黑扩张与天工 Ultra 人形机器人性能验证。
+- 新增趋势信号：`daily/tech/trend-signals/2026-08-26.md`，判断企业 Agent 正从“模型 + Prompt + API”升级为包含身份目录、权限、可信运行、行为证据、可观测性、人工确认和退出治理的独立生产治理栈。
+- 更新 `topics/digital-transformation.md`，新增“企业 Agent 治理与可信运行栈”长期框架；`dashboards/index.md` 当前趋势等级仍有效，本次不调整 Dashboard。
+- 更新 `daily/tech/README.md`，将 2026-08-26 科技趋势日报放入 Latest Reports 首位。
+
+## 2026-08-25
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-08-25.md`，覆盖 Agent 推理 token 经济性、AWS Agentic Resource Discovery / Agent Registry、GPT-5.6 进入 Kiro、Perplexity 融资待核实线索及科技资产估值分化。
+- 更新 `daily/tech/README.md`，将 2026-08-25 科技趋势日报放入 Latest Reports 首位。
+- 今日为周二，未生成科技周报；本期未调整 `dashboards/index.md`、Topic 或独立趋势信号文件。
+
 ## 2026-08-24
 
 - 新增科技趋势每日简报：`daily/tech/news-2026-08-24.md`，并新增科技趋势周报：`reports/2026/2026-08-24-week35.md`，汇总过去 7 天 AI 基础设施融资与信用支持、数据中心社会许可、定制芯片与存储、Robotaxi 商业化和企业 AI 韧性等变化。
