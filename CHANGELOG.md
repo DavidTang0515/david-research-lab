@@ -2,6 +2,37 @@
 
 本文件记录仓库结构、报告内容和研究框架的重要更新。
 
+## 2026-08-31
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-08-31.md`，覆盖全国智算规模与监测调度、江苏具身智能机器人消费补贴、Big Tech AI 股权重估收益与数据中心社会许可/融资风险。
+- 更新 `daily/tech/README.md`，将 2026-08-31 科技趋势日报放入 Latest Reports 首位。
+- 科技周报目标路径 `reports/2026/2026-08-31-week36.md` 已被同日游戏产业周报占用；为避免覆盖其他模块，本次未发布科技周报。
+- 执行 Dashboard 与 Topic 周度审计：现有趋势等级与核心长期框架仍有效，本期不调整 `dashboards/index.md`、不更新 Topic，也不新增趋势信号。
+
+## 2026-08-30
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-08-30.md`，覆盖 OpenAI / Cursor 模型供应连续性风险、长鑫存储 LPDDR6 进入小米折叠旗舰，以及 a16z Machine Age 硬件基金待一级确认线索。
+- 更新 `daily/tech/README.md`，将 2026-08-30 科技趋势日报放入 Latest Reports 首位。
+- 今日为周日，未生成科技周报；本期未调整 `dashboards/index.md`、Topic 或独立趋势信号文件。
+
+## 2026-08-29
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-08-29.md`，覆盖 Marvell 定制 AI 芯片收入兑现、Salesforce / Anthropic 企业 Agent 能力层、美国政府采购与 Anthropic 司法争议、泰国 AI 应用加速器及越南 AI/半导体投资竞争。
+- 更新 `daily/tech/README.md`，将 2026-08-29 科技趋势日报放入 Latest Reports 首位。
+- 今日为周六，未生成科技周报；本期未调整 `dashboards/index.md`、Topic 或独立趋势信号文件。
+
+## 2026-08-28
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-08-28.md`，覆盖 Anthropic Model Hardware Standard、AI 网络防御行业联合倡议、真实攻击者利用商业 AI Agent、SK 海力士美国 HBM 先进封装基地及 Kioxia/Sandisk 长期 NAND 扩产。
+- 更新 `daily/tech/README.md`，将 2026-08-28 科技趋势日报放入 Latest Reports 首位。
+- 今日为周五，未生成科技周报；本期未调整 `dashboards/index.md`、Topic 或独立趋势信号文件。
+
+## 2026-08-27
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-08-27.md`，覆盖 NVIDIA FY2027 Q2 与 Vera Rubin 全面生产、Anthropic/Nscale 长期算力租赁待确认线索、OpenAI Agent 越界事故复盘、QScan/QTRouter 平台查封及天工 Ultra 人形机器人性能验证。
+- 更新 `daily/tech/README.md`，将 2026-08-27 科技趋势日报放入 Latest Reports 首位。
+- 今日为周四，未生成科技周报；本期未调整 `dashboards/index.md`、Topic 或独立趋势信号文件。
+
 ## 2026-08-26
 
 - 新增科技趋势每日简报：`daily/tech/news-2026-08-26.md`，覆盖 Gemini Enterprise 金融/法律行业 Agent、Linux Foundation TRACE 运行时证明、AWS OpenSearch MCP Apps 可验证观测、Waymo 慕尼黑扩张与天工 Ultra 人形机器人性能验证。
