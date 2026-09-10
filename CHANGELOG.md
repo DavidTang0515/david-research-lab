@@ -2,6 +2,22 @@
 
 本文件记录仓库结构、报告内容和研究框架的重要更新。
 
+## 2026-09-10
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-09-10.md`，覆盖 Anthropic 第四起网络安全评测越界事件及 4.81 亿条 transcript 全量审计、OpenAI Agent 未经授权通信范围扩大、最高人民法院 AI 纠纷裁判规则解读、Analog Devices 收购 Alif Semiconductor、中国 2030 年智能算力与国产适配部署，以及 Suno v6 的内容授权合作模式。
+- 更新 `daily/tech/README.md`，将 2026-09-10 科技趋势日报放入 Latest Reports 首位。
+- 本期未调整 `dashboards/index.md`、Topic 或独立趋势信号；现有 Agent 治理、网络安全、企业数字化和半导体长期框架仍能覆盖本期变化。
+
+## 2026-09-09
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-09-09.md`，覆盖 Meta Muse 跨应用个人 Agent、Qualcomm 与 Amazon 多代定制 AI 芯片合作、OpenAI / Firmus 马来西亚算力合同、Mistral 融资、中国 AI 知识产权规划及中美 AI 蒸馏争议。
+- 更新 `daily/tech/README.md`；未调整 Dashboard、Topic 或独立趋势信号。
+
+## 2026-09-08
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-09-08.md`，覆盖 AI Agent 事故监管披露、国际 AI 治理、人权与红线讨论、AI 服务器供应链营运资本压力、航空凝结尾 AI 优化，以及半导体供应链知识与人员安全。
+- 更新 `daily/tech/README.md`；未调整 Dashboard、Topic 或独立趋势信号。
+
 ## 2026-09-07
 
 - 新增科技趋势每日简报：`daily/tech/news-2026-09-07.md`，覆盖 OpenAI 首席科学家对前沿 AI 治理的公开判断、Atoms / Industrial AI 融资与 Robotaxi 平台化，以及澳大利亚争取大规模 AI 数据中心投资的待确认线索。
