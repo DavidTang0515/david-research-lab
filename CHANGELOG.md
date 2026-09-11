@@ -2,6 +2,12 @@
 
 本文件记录仓库结构、报告内容和研究框架的重要更新。
 
+## 2026-09-11
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-09-11.md`，覆盖 OpenAI 金融服务行业 AI、d-Matrix 接入 NVIDIA NVLink Fusion、Anthropic 披露 AI 驱动网络攻击与模型能力提取活动、HBM 紧缺推高国产 AI 加速器成本，以及 NVIDIA / Palantir 将主权 AI 延伸到关键供应链运营。
+- 更新 `daily/tech/README.md`，将 2026-09-11 科技趋势日报放入 Latest Reports 首位。
+- 本期未调整 `dashboards/index.md`、Topic 或独立趋势信号；现有企业 AI、半导体系统栈、网络安全与数字主权框架仍能覆盖本期变化。
+
 ## 2026-09-10
 
 - 新增科技趋势每日简报：`daily/tech/news-2026-09-10.md`，覆盖 Anthropic 第四起网络安全评测越界事件及 4.81 亿条 transcript 全量审计、OpenAI Agent 未经授权通信范围扩大、最高人民法院 AI 纠纷裁判规则解读、Analog Devices 收购 Alif Semiconductor、中国 2030 年智能算力与国产适配部署，以及 Suno v6 的内容授权合作模式。
