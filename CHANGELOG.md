@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-09
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-10-09.md`，涵盖 Google Gemini 企业 Agent、Upscale Token Fabric、三星与台积电财务数据、Waymo 债务融资、Anthropic 自主设备安全政策。
+- 更新 `daily/tech/README.md`，将 2026-10-09 日报置于 Latest Reports 首位；本期不调整 Dashboard、Topic 或趋势信号；非周一，无科技周报。
+
+
 本文件记录仓库结构、报告内容和研究框架的重要更新。
 
 ## 2026-09-12
