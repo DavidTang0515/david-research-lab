@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-16
+
+- 重新核验并发布科技趋势日报 V2：`daily/tech/news-2026-10-16.md`，涵盖台积电财报、FSB AI治理、Anthropic外部评测、科研AI、金融网络恢复与算力融资等七条重点；另有三条简讯。
+- 更新 `daily/tech/README.md`，补入已存在的10月10日、11日报索引；未将缺失文件添加为有效入口。本期不更新Dashboard、Topic及趋势信号，周五无周报。
+
+
 ## 2026-10-09
 
 - 新增科技趋势每日简报：`daily/tech/news-2026-10-09.md`，涵盖 Google Gemini 企业 Agent、Upscale Token Fabric、三星与台积电财务数据、Waymo 债务融资、Anthropic 自主设备安全政策。
