@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-27
+
+- 新增科技趋势日报 `daily/tech/news-2026-10-27.md`：20条候选、8条重点、4条简讯，涉及Anthropic IPO、Meta融资、GPT-6.1 Terra、AI科学主张、Cloudflare推理隔离、小鹏L4示范运营、微软组织调整和Bedrock商业施工。
+- 同步更新 `daily/tech/README.md`；周二不生成科技周报，Dashboard、Topics与独立趋势信号不调整。
+- 10月12—15日及17—22日科技日报仍缺失；Anthropic SEC原件超大无法全文回读，正文保留二级核验边界。
+
+
 ## 2026-10-26
 
 - 新增科技趋势日报 daily/tech/news-2026-10-26.md：20条候选筛查、3条重点、2条简讯；明确周末窗口及历史事件后续报道的证据边界。
