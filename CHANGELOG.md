@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-28
+
+- 新增科技趋势日报 `daily/tech/news-2026-10-28.md`：22条候选、8条重点、5条简讯，涵盖Genie 4、Oracle/OpenAI企业AI、Oracle/NVIDIA算力、SK hynix财报、AI药研、形式化验证、FEC网络安全和Apple端侧AI；明确首发时间、证据边界及前七日缺口。
+- 同步更新 `daily/tech/README.md`；周三无科技周报，Dashboard、Topics和独立趋势信号不调整。
+- 10月12—15日及17—22日科技日报仍缺失；本轮未以未经核验的历史资料补写。
+
 ## 2026-10-27
 
 - 新增科技趋势日报 `daily/tech/news-2026-10-27.md`：20条候选、8条重点、4条简讯，涉及Anthropic IPO、Meta融资、GPT-6.1 Terra、AI科学主张、Cloudflare推理隔离、小鹏L4示范运营、微软组织调整和Bedrock商业施工。
