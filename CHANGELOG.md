@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-29
+
+- 新增科技趋势日报 `daily/tech/news-2026-10-29.md`：20条候选、8条重点、3条简讯，涉及Gemini 4 Carbon、微软和Alphabet财报、SAP企业Agent、Claude团队ROI、Copilot harness、DHS身份数据调查和Apple触控MacBook；明确时间和核验边界。
+- 更新 `daily/tech/README.md`；周四无科技周报，Dashboard、Topic与独立趋势信号不调整。
+- 10月12—15日及17—22日科技日报缺口仍待核验补偿，本轮未伪造历史新闻。
+
+
 ## 2026-10-28
 
 - 新增科技趋势日报 `daily/tech/news-2026-10-28.md`：22条候选、8条重点、5条简讯，涵盖Genie 4、Oracle/OpenAI企业AI、Oracle/NVIDIA算力、SK hynix财报、AI药研、形式化验证、FEC网络安全和Apple端侧AI；明确首发时间、证据边界及前七日缺口。
