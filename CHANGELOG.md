@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-30
+
+- 新增科技趋势日报 `daily/tech/news-2026-10-30.md`：21条候选、8条重点、4条简讯，覆盖Amazon/Samsung/Intel财报、Mistral权重公开、OpenAI监控架构、Serval融资、腾讯企业Agent及Reddit内容平台策略；明确日期级与小时级证据边界。
+- 更新 `daily/tech/README.md`；周五不生成科技周报，Dashboard、Topics及独立趋势信号不调整。
+- 10月12—15日及17—22日历史日报缺口仍待独立核验补偿，本轮未伪造旧闻。
+
 ## 2026-10-29
 
 - 新增科技趋势日报 `daily/tech/news-2026-10-29.md`：20条候选、8条重点、3条简讯，涉及Gemini 4 Carbon、微软和Alphabet财报、SAP企业Agent、Claude团队ROI、Copilot harness、DHS身份数据调查和Apple触控MacBook；明确时间和核验边界。
