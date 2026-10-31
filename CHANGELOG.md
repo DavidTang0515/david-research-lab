@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-31
+
+- 新增科技趋势日报 `daily/tech/news-2026-10-31.md`：实际登记20条候选、8条重点、3条简讯；重点覆盖Apple智能中国测试、Northflank密钥安全事件、Cursor恶意插件漏报补充、DoorDash Agent采用率、鸿海机器人、Runware模块化机房、Intel市场反应与AI版权争议。
+- 更新 `daily/tech/README.md`；周六不生成周报，Dashboard、Topics与独立趋势信号均不调整。
+- 核对10月24—30日七份日报及索引/CHANGELOG一致；10月12—15日、17—22日历史缺口仍待核验补偿；不将旧事件冒充当日首发。
+
 ## 2026-10-30
 
 - 新增科技趋势日报 `daily/tech/news-2026-10-30.md`：21条候选、8条重点、4条简讯，覆盖Amazon/Samsung/Intel财报、Mistral权重公开、OpenAI监控架构、Serval融资、腾讯企业Agent及Reddit内容平台策略；明确日期级与小时级证据边界。
