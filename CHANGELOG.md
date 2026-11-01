@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-11-01
+
+- 新增科技趋势日报 `daily/tech/news-2026-11-01.md`：登记17条候选并完成来源/时间核验，筛选5条重点、2条其他简讯；重点覆盖Binance恢复进展与FBI归因、Quad可信AI和半导体供应链合作、AI+大会央企场景议题、VOLTA模型辅助画像及xAI数据中心环境诉讼。
+- 补录前一窗口遗漏：Binance首次披露和OpenAI融资报道为小时级漏报；Google Project Suncatcher、Anthropic Ultra套餐按日期级证据补录，不冒充本期新事件。
+- 更新 `daily/tech/README.md`；周日不生成周报。Dashboard、Topics及独立趋势信号不调整。
+- 核对10月25—31日七份科技日报均存在，栏目索引与CHANGELOG一致；10月12—15日、17—22日历史日报缺口仍待独立核验补偿，不凭空补写。
+
+# Changelog
+
 ## 2026-10-31
 
 - 新增科技趋势日报 `daily/tech/news-2026-10-31.md`：实际登记20条候选、8条重点、3条简讯；重点覆盖Apple智能中国测试、Northflank密钥安全事件、Cursor恶意插件漏报补充、DoorDash Agent采用率、鸿海机器人、Runware模块化机房、Intel市场反应与AI版权争议。
