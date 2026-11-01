@@ -4,6 +4,8 @@ David Research Lab 的游戏日报栏目，记录经过核实的游戏新闻、�
 
 ## Latest Reports
 
+- [2026-11-01 游戏新闻日报](./news-2026-11-01.md)
+
 - [2026-10-31 游戏新闻日报](./news-2026-10-31.md)
 
 
@@ -94,4 +96,4 @@ David Research Lab 的游戏日报栏目，记录经过核实的游戏新闻、�
 - [游戏日报规范](./reporting-guidelines.md)
 - [趋势信号目录](./trend-signals/)
 
-原 `game-news-digest` 仓库保留为 2026-06-22 及以前的历史档案；此后的游戏日报统一发布到本栏目。
+原 game-news-digest 仓库保留为 2026-06-22 及以前的历史档案；此后的游戏日报统一发布到本栏目。
