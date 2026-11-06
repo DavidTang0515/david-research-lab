@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-06
+
+- 新增 `daily/tech/news-2026-11-06.md`：覆盖GPT-6 Cyber、METR辅助研发研究、CERT-In金融网络攻击预警、Zipline无人机融资、Agility机器人商业化、AI板块重估与半导体材料需求。
+- 更新科技日报索引；11月2—4日及10月历史缺口仍待独立核验补偿。本期未调整Dashboard、Topics或独立趋势信号。
+
 ## 2026-11-05
 
 - 新增 `daily/tech/news-2026-11-05.md`：核验9条可识别候选（5条重点、2条简讯、2条旧闻排除），涉及腾讯Hy4、美国OCC AI监管检查、印度金融AI攻击预警、Siltronic晶圆供给及SpaceX设备融资报道；明确日期级时间和二级来源边界。
